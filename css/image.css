@@ -1,0 +1,136 @@
+.my-5 {
+  margin-top: 1rem !important;
+ 
+}
+
+.mt-5 {
+  margin-top: 1rem !important;
+}
+@media (max-width: 450px) and (min-width: 200px) {
+   .workList li{
+       width: 100%;
+       height: 50%;
+   }
+}
+
+@media (max-width: 767px)  {
+
+
+/*	.head-col-2 , .head-col-3*/
+/*	{*/
+/*    display: none !important;*/
+
+/*}*/
+
+}
+
+@media (max-width: 450px) and (min-width: 200px) {
+   
+element.style {
+}
+.footer .borderr {
+    border-top: 2px solid #e4e4e4;
+
+}
+.container-fluid.customlogo{
+    
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer .style {
+    padding: 30px 0 0px 22px;
+     margin-top: 13px;
+    text-align: left;
+}
+.p-5 {
+     padding: 1rem!important; 
+}
+.col-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+#gallery img {
+    width: 310px;
+    margin: 6px;
+    -webkit-box-shadow: 0 0 3px 3px #ebebeb;
+    box-shadow: 0 0 3px 3px #ebebeb;
+    float: center;
+}
+}
+@media (max-width: 1024px) and (min-width: 451px) {
+   
+element.style {
+}
+.footer .borderr {
+    border-right: 2px solid #e4e4e4;
+}
+.footer .style {
+    padding: 30px 0 0px 22px;
+    margin-top: 50px;
+    text-align: left;
+}
+.col-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+}
+
+@media (max-width: 1024px) and (min-width: 320px) {
+.subscribe {
+    -moz-box-shadow: 0px 3px 8px rgb(100,100,100);
+    -webkit-box-shadow: 0px 3px 8px rgb(100 100 100);
+    box-shadow: 0px 3px 8px rgb(100 100 100);
+    background-color: #f8a217;
+    width: 103%;
+}
+}
+@media (max-width: 500px) and (min-width: 300px) {
+    
+    .why-choose .why-choose-icon {
+        top: 22px;
+    margin-left: -12px;
+}
+
+
+.why-choose .why-choose-icon img {
+    width: 68px;
+}
+    
+}
+@media (max-width: 1199px) and (min-width: 500px) {
+    
+  .why-choose .why-choose-icon {
+       top: 19px;
+        margin-left: -17px;
+
+}
+.why-choose .why-choose-icon img {
+    width: 75px;
+}
+
+}
+@media (max-width: 1330px) and (min-width: 1025px) {
+    
+  .why-choose .why-choose-icon {
+    top: 19px;
+    position: absolute;
+    left: 56%;
+}
+.why-choose .why-choose-icon img {
+    width: 75px;
+}
+
+}
+@media (max-width: 500px) and (min-width: 300px) {
+    
+    .workList li img {
+    /* height: 300px; */
+
+}
+}

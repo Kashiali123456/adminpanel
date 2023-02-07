@@ -1,0 +1,2562 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway';
+}
+/*additional css*/
+.section-one {
+    padding: 80px;
+}
+.section-two {
+    padding: 80px;
+}
+.section-three {
+    padding: 50px 120px;
+}
+.section-six {
+   padding: 50px 200px;
+}
+/*additional css*/
+
+
+/*section {     padding: 60px 0; }*/
+
+.orangetext {
+    color: #F29E29;
+}
+
+.herobanner {
+    background-image: url(../images/banner.png);
+      margin-top: -160px;
+    padding-top: 110px;
+
+}
+
+.vl {
+    border-left: 3px solid #f29e29;
+    height: 30px;
+}
+
+.menuinfo {
+    padding-top: 20px;
+}
+
+.menuinfo h3 {
+    font-weight: 900;
+    font-size: 18px;
+   color: #ffffff;
+   text-align:center;
+}
+
+.sec1500 {
+    max-width: 1500px;
+}
+
+.ylBg h2 {
+    color: white;
+    background-color: #F29E29;
+    padding: 10px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.nj{
+    color: white;
+    font-weight: 900;
+    font-size: 54px;
+}
+
+.nj span {
+    color: #F29E29;
+
+}
+
+.ban-desc {
+    font-weight: 600;
+    font-size: 22.9762px;
+}
+
+.ban-desc span {
+    color: #F29E29;
+}
+
+
+.discountBtn {
+    margin-top: 20px;
+    background-color: #F29E29;
+    color: white;
+    font-size: 20px;
+    border: transparent;
+    border-radius: 7px;
+    padding: 10px 20px;
+}
+
+
+/* other side of hero banner  */
+.form-col {
+    background-color: white;
+    border-radius: 24px;
+}
+
+.desc-heading {
+    background-color: #F29E29;
+    color: white;
+    padding: 30px 50px 30px 50px;
+    border-radius: 22px;
+}
+
+
+
+.h2-form {
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+}
+
+.form-sub {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.form-sub span {
+    font-size: 30px;
+    color: #F29E29;
+}
+
+.customizefield {
+    background: #D9D9D9;
+    border-radius: 10px;
+    color: white;
+}
+
+.customizefield::placeholder {
+    color: white;
+    font-weight: 200;
+    font-size: 16px;
+}
+
+.form-submit {
+    background: #F29E29;
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid transparent;
+    padding: 10px;
+    font-weight: 500;
+    color: white;
+    font-size: 24px;
+}
+
+/* hero banner with form ends here */
+
+/* sec 2 starts here */
+.webnHeading {
+    text-align: center;
+    color: #F29E29;
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: -50px;
+}
+
+.blkorn1 {
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: left;
+
+}
+.blkorn1 span {
+    color: #F29E29;
+}
+
+
+
+
+.blkorn {
+    color: black;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.blkorn span {
+    color: #F29E29;
+
+
+}
+
+.secOnePara {
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 600;
+}
+.SCC {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.SCR {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.counts h4 span {
+    color: #F29E29;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.counts p {
+
+    font-weight: 900;
+    font-size: 22px;
+}
+
+/*.logodesign {*/
+/*    transform: rotate(270deg);*/
+/*    font-size: 64px;*/
+/*    float: right;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*    -webkit-text-stroke: 2px;*/
+/*    margin-top: 250px;*/
+/*    padding-top: 200px;*/
+/*    margin-left: -400px;*/
+/*}*/
+
+/*.logodesign {*/
+/*    transform: rotate(270deg);*/
+/*    font-size: 64px;*/
+/*    float: right;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*    -webkit-text-stroke: 2px;*/
+/*    position: relative;*/
+    /* margin-top: 250px; */
+    /* padding-top: 200px; */
+    /* margin-left: -400px; */
+/*    left: 180px;*/
+/*    top: 400px;*/
+/*}*/
+.logodesign {
+    transform: rotate(270deg);
+    font-size: 65px;
+    float: right;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px;
+    position: relative;
+    width: 450px;
+    left: 270px;
+    top: 170px;
+}
+
+
+/* portfolio start here */
+.portbtn{
+        justify-content: center;
+
+}
+.portfolio-headings h4 {
+    color: #F29E29;
+    text-align: center;
+}
+
+.portfolio-headings h2 {
+    text-align: center;
+}
+
+.portfolio-headings p {
+    font-weight: 400;
+    font-size: 26px;
+    text-align: center;
+    color: #f29e29;
+    padding-inline: 200px;
+}
+
+.catebtn {
+    background: #F29E29;
+    color: white;
+    font-weight: 900;
+    font-size: 18px;
+    border: transparent;
+    border-radius: 7px;
+    padding: 8px 25px;
+    width: 160px;
+}
+
+.portfolioimgs img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.drivers img {
+    width: 260px;
+    vertical-align: middle;
+    padding-left: 58px;
+    padding-right: 1px;
+}
+
+.drivers p {
+    text-align: center;
+    font-size: 16px;
+
+}
+
+.drivers {
+    border: 2px solid #212529;
+    border-radius: 15px;
+}
+
+.dil {
+    padding: 10px;
+}
+/*h1.headingCustom {*/
+/*    transform: rotate(270deg);*/
+/*    font-size: 60px;*/
+/*    float: left;*/
+/*    -webkit-text-fill-color: transparent;*/
+/*    -webkit-text-stroke: 2px;*/
+/*    margin-top: -28px;*/
+/*    margin-left: -213px;*/
+/*}*/
+
+h1.headingCustom {
+    transform: rotate(270deg);
+    font-size: 60px;
+    /* float: left; */
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;
+    /* margin-top: -28px; */
+    /* margin-left: -213px; */
+    position: relative;
+    right: 900px;
+    bottom: 500px;
+}
+
+
+/* packages start here */
+
+
+.pkgg h4 {
+    color: #F29E29;
+    text-align: center;
+}
+.pkgg p {
+    font-weight: 400;
+    font-size: 26px;
+    text-align: center;
+    color: #f29e29;
+    padding-inline: 200px;
+}
+
+
+.pkgrow {
+    justify-content: center;
+}
+
+.pkgbody {
+    border: 2px solid #F29E29;
+    border-radius: 15px;
+}
+
+
+.pkgName h3 {
+    color: #F29E29;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.pkgprice h4 {
+    color: black;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+.pkgpricebig h2 {
+    background: #F29E29;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 35px;
+    margin: 5px 40px;
+}
+
+.pkgul{
+    height: 25vh;
+    overflow: auto;
+}
+.pkgul li {
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.fa-circle-check:before {
+  padding-inline: 6px;
+    line-height: 30px;
+}
+
+/*custom scroll bar */
+.pkgrow ::-webkit-scrollbar {
+    width: 1vw;
+}
+.pkgrow ::-webkit-scrollbar-thumb {
+    background-color: #6a6169;
+    /* border: 0.2vw solid #ffffff; */
+    border-radius: 1vw;
+}
+
+.pkgrow ::-webkit-scrollbar-track {
+    background-color: #dedede;
+    border-radius: 11px;
+}
+/*custom scroll bar */
+
+
+.orderbtn {
+    text-align: center;
+}
+
+
+.orderbtn button {
+    background: #F29E29;
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+    padding: 10px 28px;
+}
+
+.chatpkg h3 a {
+    float: right;
+    color: orange;
+}
+.pkgcontact h3 {
+    font-size: 18px;
+    font-weight: 900;
+    color: black;
+}
+
+
+/* order now package modal */
+
+.modal-content {
+    background-color: #002e45;
+}
+
+.infomodal {
+    color: white;
+    text-align: left;
+
+}
+
+.formModal {
+    color: white;
+    text-align: left;
+}
+
+/*End order now package modal */
+
+
+/* hovering of package */
+.pkgbody:hover {
+    background: #f29e29;
+}
+
+.pkgbody:hover .pkgName h3 {
+    color: white;
+}
+
+.pkgbody:hover .pkgpricebig h2 {
+    background: white;
+    color: #f29e29;
+}
+
+.pkgbody:hover .pkgul {
+    color: white;
+}
+
+.pkgbody:hover .orderbtn {
+    background: #f29e29;
+    color: #fff;
+}
+
+.pkgbody:hover .orderbtn button {
+    color: #f29e29;
+    background: #fff;
+}
+
+
+.pkgbody:hover  .chatpkg h3 a{
+    color:white;
+}
+/* hovering of package */
+
+
+/* value section */
+.valueheading h3 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.valueheading h2 span {
+    color: #F29E29;
+}
+
+.valueheading h2 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.item {
+    text-align: center;
+    padding: 30px 25px;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    margin-bottom: 30px;
+    height: 440px;
+}
+
+.item:hover {
+
+    box-shadow: 0 8px 20px 0px rgba(0, 0, 0, 0.2);
+    -webkit-transition: all .5s ease 0;
+    transition: all .5s ease 0;
+    transition: all 0.5s ease 0s;
+}
+
+.item:hover .item,
+.item:hover span.icon {
+
+    border-radius: 10px;
+    -webkit-transition: all .5s ease 0;
+    transition: all .5s ease 0;
+    transition: all 0.5s ease 0s;
+}
+
+.item:hover h6,
+.item:hover p {
+    -webkit-transition: all .5s ease 0;
+    transition: all .5s ease 0;
+    transition: all 0.5s ease 0s;
+}
+
+
+.item p {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+}
+
+.item h6 {
+    margin-bottom: 20px;
+    font-size: 37px;
+    color: #f8a217;
+}
+
+.icon img {
+    max-width: 100%;
+    height: 175px;
+    
+}
+
+/* value section end*/
+
+
+/* ready section start */
+
+
+.ready {
+    background: #F29E29;
+
+}
+
+.Computer {
+    width: 400px;
+    height: 351px;
+    margin-top: -59px;
+}
+
+.website_desigen {
+    font-weight: 900;
+    font-size: 48px;
+    padding-top: 42px;
+    padding-left: 35px;
+}
+
+.website_details {
+
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 35px;
+}
+
+.contact {
+    padding-left: 40px;
+
+}
+
+.contac_oder {
+    padding: 10px 15px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    border: transparent;
+    cursor: pointer;
+}
+
+/* ready section end */
+
+
+/* Satisfied Client */
+.Satisfied {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    color: #000000;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.check_out {
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+}
+
+.Check_bg {
+    background: #F29E29;
+}
+
+.Check_img {
+    padding: 50px 0px;
+    margin-left: 250px;
+    height: 500px;
+}
+
+.Absolutely {
+    padding-top: 100px;
+}
+
+.Absolutely_heading {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 30px;
+}
+
+.Absolutely_details {
+    font-family: Manrope;
+    font-size: 26px;
+    font-weight: 400;
+    color: #808080;
+}
+
+.Jack_Nitzsche {
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.Investor {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.col.Investor_img {
+    text-align: right;
+}
+
+/* Satisfied Client End */
+
+/*        Award section starts          */
+
+.awards-headings {
+    text-align: center;
+}
+
+.awards-headings h2 {
+    color: #F29E29;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.awards-headings h4 {
+    font-size: 40px;
+}
+
+.awards-headings p {
+    font-weight: 700;
+    text-align: justify;
+}
+
+.awardimage {
+    text-align: center;
+}
+
+/*        Award section Ends          */
+
+
+/* quote packages Starts */
+
+/*.Company_BG {*/
+/*    background: #F29E29;*/
+/*    border-radius: 50px;*/
+
+/*}*/
+
+.Company_BG {
+    background: #F29E29;
+    border-radius: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Company {
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 50px 10px 0px 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.Company_packag {
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.call_toll {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 900;
+    color: #fff;
+    margin-top: 45px;
+    padding-left: 20px;
+}
+
+/*.phone {*/
+/*    font-size: 65px;*/
+/*    color: #000;*/
+/*    padding-top: 66px;*/
+/*    padding-left: 52px;*/
+/*}*/
+
+/*.Request {*/
+/*    background: #fff;*/
+/*    border-radius: 50px;*/
+/*    width: 230px;*/
+/*    height: 63px;*/
+/*    font-family: Raleway;*/
+/*    font-size: 22px;*/
+/*    font-weight: 900;*/
+/*    text-align: center;*/
+/*    color: #F29E29;*/
+/*    border: transparent;*/
+/*    margin-top: 50px;*/
+/*    margin-left: 75px;*/
+/*    margin-bottom: 10px;*/
+
+/*}*/
+
+.Request {
+    background: #fff;
+    border-radius: 50px;
+    /* width: 230px; */
+    /* height: 63px; */
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    text-align: center;
+    color: #F29E29;
+    border: transparent;
+    margin-top: 50px;
+    /* margin-left: 75px; */
+    margin-bottom: 10px;
+    padding: 15px 30px 15px 30px;
+}
+
+.need {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 900;
+    text-align: right;
+    color: #fff;
+    margin-top: 45px;
+    padding-right: 20px;
+}
+.need a{
+    color: white;
+}
+/* quote packages  Ends*/
+
+/* Newsletter Sections starts*/
+
+.subscribe-newsletter {
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.Looking h1 {
+    font-size: 46px;
+    font-weight: 900;
+    color: #F29E29;
+}
+
+/*.Email {*/
+/*    width: 527px;*/
+/*    height: 76px;*/
+/*    background: #F29E29;*/
+/*    border-radius: 50px;*/
+/*    border: transparent;*/
+/*    color: #fff;*/
+/*    font-size: 24px;*/
+/*    font-weight: 900;*/
+/*    padding-left: 65px;*/
+/*    margin-top: 30px;*/
+/*    margin-left: -87px;*/
+/*}*/
+
+.email-col {
+    position: relative;
+    top: 0;
+    left: 0;
+    align-items: center;
+    display: flex;
+}
+
+.Email {
+    /* width: 527px; */
+    /* height: 76px; */
+    background: #F29E29;
+    border-radius: 50px;
+    border: transparent;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 900;
+    padding: 15px 160px 15px 80px;
+    /* margin-top: 30px; */
+    /* margin-left: -87px; */
+}
+
+.icon-email {
+    position: relative;
+    left: 10%;
+    top: 0;
+    font-size: 22px;
+}
+
+
+input.Email::placeholder {
+    color: #fff;
+    font-size: 22px;
+}
+
+.btn-sbmt {
+    background: #000;
+    color: #fff;
+    border-radius: 60px;
+    padding: 13px 30px;
+    font-size: 24px;
+    position: relative;
+    right: 15%;
+}
+
+.envelope {
+     font-size: 30px;
+    padding-top: 46px;
+    z-index: 1;
+    padding-left: 45px;
+}
+/* Newsletter Sections ends*/
+
+
+
+
+
+.section-head h4 {
+     text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+    padding-bottom: 5px;
+    color: #2f2f2f
+}
+.section-head p {
+       color: #f29e29;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+.section-head p span{
+    color:black;
+}
+
+
+
+/* -----------footer starts from here ----------- */
+footer h3 {
+    color: #f29e29;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+footer li a:hover {
+    color: #f29e29;
+    text-decoration: none;
+}
+footer li a {
+    color: black;
+}
+
+
+.borderr {
+    border-right: 4px solid #d8d7d7;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 37px;
+    color: #000;
+    font-size: bold;
+}
+
+.terms-policy a{
+    color:black;
+}
+.terms-policy a:hover{
+    color:#f29e29;
+}
+
+/*-----------footer End -----------*/
+
+/* info tab */
+.session {
+    background: #F29E29;
+    padding: 40px 0px;
+}
+ .content_ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ .content_ h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.session .content_ a {
+    text-decoration: none;
+    color: #002E45;
+    font-size: 13px;
+    font-weight: 700;
+    position: relative;
+}
+/* info tab end */
+
+
+
+/* counter effects and extras*/
+
+/*   .group{*/
+/*    margin-top: 25px;*/
+/*   margin-bottom: -195px;*/
+
+/*}*/
+
+.group {
+    padding-top: 50px;
+}
+.group1 {
+    float: right;
+}
+
+
+    /* load modal */
+    .loadmodal{
+       background:  black;
+       color: white;
+    }
+
+ .blkpopdesktop{
+ height: 555px;
+ display: block;
+}
+
+
+    .popWhite{
+        background-color: white;
+        padding: 50px;
+    }
+
+    .popWhite h3{
+        
+        color: black;
+    }
+
+    .popForm{
+        width: 100%;
+    }
+
+.popForm textarea {
+    border: 1px solid;
+    border-radius: 0px;
+    height: 200px;
+}
+.popForm input {
+    border: 1px solid black;
+    border-radius: 0px;
+    margin-bottom: 25px;
+}
+
+.popSubmit {
+    width: 100%;
+    background: black;
+    color: white;
+    font-size: 18px;
+}
+button.close {
+    margin-top: -30px;
+}
+
+.btn-center{
+    text-align:center;
+}
+
+.blkpopmobile{
+    display:none;
+}
+
+/*.blkpopmobile {*/
+/*    height: 210px;*/
+/*}*/
+
+
+/*   .pkgg {*/
+/*    margin-left: -110px;*/
+/*}*/
+
+
+/*media query*/
+@media only screen and (max-width: 1440px) {
+    
+    .section-six {
+    padding: 50px 150px;
+}
+    .group1 {
+    float: right;
+    margin-top: -70px;
+}
+    
+    .section-two {
+    padding: 50px;
+}
+    
+    .pkgg {
+    margin-top: -165px;
+}
+    
+    
+    .herobanner {
+    height: 750px;
+}
+
+    .logo img {
+    width: 200px;
+}
+.ylBg h2{
+font-size: 26px;
+}
+
+.nj{
+font-size: 30px;
+}
+
+.ban-desc{
+    font-size: 18px;
+}
+
+.discountBtn{
+    font-size: 18px;
+}
+.desc-heading{
+padding: 10px 20px;
+}
+.h2-form {
+
+font-size: 35px;
+}
+.form-sub {
+font-size: 16px;
+}
+
+.form-sub span{
+    font-size: 25px;
+}
+
+.form-submit {
+    padding: 8px;
+    font-size: 20px;
+}
+.webnHeading{
+    font-size: 30px;
+        margin-top: -75px;
+}
+
+.blkorn{
+    font-size: 35px;
+}
+
+.blkorn1{
+    font-size: 35px;
+}
+
+.secOnePara{
+    font-size: 16px;
+}
+
+.logodesign{
+    -webkit-text-stroke: 1px;
+    font-size: 42px;
+        left: 250px;
+    /*padding-top: 195px;*/
+}
+.counts h4 span{
+    font-size: 22px;
+}
+.counts p{
+    font-size: 20px;
+}
+.blkorn{
+    font-size: 30px;
+}
+.portfolio-headings p{
+    font-size: 22px;
+}
+.portfolioimgs img {
+width: 100%;
+}
+
+
+h1.headingCustom {
+    font-size: 50px;
+    position: relative;
+    right: 680px;
+}
+
+
+.item p {
+
+    font-size: 16px;
+}
+section {
+    padding: 40px 0;
+}
+.Satisfied{
+font-size: 50px;
+}
+.check_out{
+    font-size: 42px;
+}
+.Absolutely_heading{
+    font-size: 40px;
+}
+.Absolutely_details{
+    font-size: 20px
+}
+
+.Company_BG {
+    background: #F29E29;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.awardimage {
+    display: flex;
+    justify-content: center;
+    height: 165px;
+}
+
+.Company {
+    font-size: 28px;
+}
+.Company_packag {
+    font-size: 30px;
+}
+
+.call_toll {
+    font-size: 18px;
+}
+
+
+.need a {
+float: right;
+font-size: 18px;
+}
+
+.Looking h1 {
+    font-size: 33px;
+}
+
+.customizefield::placeholder {
+
+    font-size: 16px;
+}
+
+.btn-sbmt {
+
+    padding: 13px 30px;
+    font-size: 18px;
+
+}
+
+.Email {
+    font-size: 18px;
+    padding: 15px 99px 15px 60px;
+}
+.subscribe-newsletter {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.Request {
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+}
+}
+
+@media only screen and (max-width: 1366px) {
+    .section-six {
+    padding: 50px 120px;
+}
+
+h1.headingCustom {
+    font-size: 50px;
+    position: relative;
+    right: 650px;
+}
+    
+}
+
+
+@media only screen and (max-width: 1280px) {
+    
+    h1.headingCustom {
+    font-size: 40px;
+    position: relative;
+    right: 600px;
+}
+
+.pkgg {
+    margin-top: -30px;
+}
+    
+    .menuinfo h3 {
+    font-size: 17px;
+}
+
+.counts p {
+    font-size: 18px;
+}
+
+section {
+    padding: 10px 0;
+}
+
+.group {
+    padding-top: 20px;
+}
+
+.pkgg p {
+    font-size: 22px;
+    padding: 0px 150px 0px 150px;
+}
+
+.portfolio-headings p {
+    font-size: 22px;
+    padding: 0px 150px 0px 150px;
+}
+    
+    .form-sub span {
+    font-size: 23px;
+}
+.nj {
+    font-size: 26px;
+}
+    .portfolioimgs img {
+    width: 100%;
+}
+.pkgcontact h3 {
+    font-size: 15px;
+}
+
+.chatpkg h3 a {   
+ text-align: end;
+
+}
+.item h6 {
+    font-size: 30px;
+}
+
+.website_desigen {
+    font-size: 30px;
+}
+
+.website_details {
+        font-size: 18px;
+}
+
+/*.Email {*/
+/*    width: 440px;*/
+/*}*/
+.Computer {
+    /*width: 100%;*/
+    height: 326px;
+    margin-top: -59px;
+}
+
+.btn-sbmt {
+    padding: 13px 30px;
+    font-size: 16px;
+}
+
+.Email {
+    font-size: 14px;
+    padding: 15px 90px 15px 60px;
+}
+
+
+input.Email::placeholder {
+    color: #fff;
+    font-size: 16px;
+}
+.Looking h1 {
+    font-size: 26px;
+}
+}
+
+
+@media only screen and (max-width: 1153px) {
+.ban-desc {
+    font-size: 16px;
+}
+
+.Email {
+    font-size: 14px;
+    padding: 15px 60px 15px 60px;
+}
+
+
+.icon-email {
+    position: relative;
+    /*left: -7%;*/
+    font-size: 18px;
+}
+input.Email::placeholder {
+    color: #fff;
+    font-size: 16px;
+}
+
+.email-col {
+    justify-content: end;
+}
+
+.form-sub {
+    font-size: 20px;
+}
+
+.section-head p {
+    font-size: 40px;
+}
+
+h1.headingCustom {
+    font-size: 40px;
+    position: relative;
+    right: 540px;
+}
+
+.section-two {
+    padding: 30px;
+}
+.counts p {
+    font-size: 17px;
+}
+.logodesign {
+
+    font-size: 38px;
+    left: 235px;
+}
+
+.group {
+    padding-top: 20px;
+    width: 7%;
+}
+
+.group1 {
+    margin-top: -10px;
+    width: 7%;
+}
+
+.desc-heading h2 {
+    font-size: 25px;
+    margin: 0;
+}
+
+.awards-headings h2 {
+
+    font-size: 40px;
+}
+
+.webnHeading {
+    font-size: 32px;
+    margin-top: -40px;
+}
+
+    .catebtn {  
+    width: 140px;
+    padding: 9px 14px;
+}
+
+.form-sub span {
+    font-size: 20px;
+}
+
+.menuinfo h3{
+    font-size: 15px;
+}
+.SCR p {
+    text-align: right;
+}
+.portfolioimgs img {
+    width: 100%;
+}
+/*.Email{*/
+/*        margin-left: -80px;*/
+/*}*/
+
+.Computer {
+    /*width: 100%;*/
+    height: 280px;
+    margin-top: -59px;
+}
+.website_desigen {
+    font-size: 28px;
+}
+.website_details {
+    font-size: 16px;
+}
+    
+}
+
+@media only screen and (max-width: 1024px) {
+   
+   .counts p {
+    font-size: 14px;
+}
+
+.section-three {
+    padding: 10px 50px;
+}
+
+.portfolio-headings p {
+    padding: 0px 100px 0px 100px;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
+   
+    
+        .catebtn {  
+      font-size: 13px;
+    padding: 8px 20px;
+    width: 125px;
+}
+
+
+    .ylBg h2 {
+        font-size: 22px;
+    }
+    .nj {
+        font-size: 22px;
+    }
+    .ban-desc {
+        font-size: 15px;
+    }
+    .discountBtn {
+        font-size: 18px;
+    }
+
+.menuinfo h3 {
+    font-size: 13px;
+}
+.webnHeading{
+    font-size: 24px;
+}
+.blkorn {
+    font-size: 24px;
+}
+.blkorn1 {
+    font-size: 24px;
+}
+
+
+.secOnePara {
+    font-size: 14px;
+}
+.counts h4 span {
+    font-size: 20px;
+}
+
+.counts p {
+    font-size: 15px;
+}
+.portfolio-headings p {
+    font-size: 20px;
+}
+
+.portfolioimgs img {
+    width: 100%;
+    object-fit: cover;
+    padding: 6px;
+}
+/*h1.headingCustom {*/
+/*    font-size: 28px;*/
+/*    margin-top: 81px;*/
+/*    margin-left: -150px;*/
+/*    -webkit-text-stroke: 1px;*/
+/*}*/
+
+h1.headingCustom {
+    font-size: 35px;
+    position: relative;
+    right: 485px;
+}
+
+.pkgg {
+    margin-top: -20px;
+}
+
+.pkgg p {
+    font-size: 20px;
+    padding: 0px 100px 0px 100px;
+}
+
+
+
+.portfolio-headings p {
+    font-size: 18px;
+}
+
+.pkgName h3{
+    font-size: 26px;
+}
+
+.pkgpricebig h2{
+    font-size: 24px;
+}
+
+.pkgcontact h3 {
+    font-size: 13px;
+}
+    .item h6 {
+        font-size: 28px;
+    }
+    .item p {
+        font-size: 14px;
+    }
+    .item {
+    padding: 0px 25px;
+    height: 420px;
+}
+
+.website_desigen {
+    font-size: 36px;
+}
+.website_details {
+    font-size: 16px;
+}
+
+
+.Computer {
+    width: 300px;
+    height: 300px;
+    margin-top: -63px;
+}
+.Satisfied {
+    font-size: 40px;
+}
+.check_out {
+    font-size: 34px;
+}
+.Check_img {
+    padding: 50px 0px;
+    margin-left: 125px;
+    height: 406px;
+}
+
+
+.Absolutely_heading {
+    font-size: 34px;
+}
+.Absolutely_details {
+    font-size: 16px;
+}
+
+.awards-headings h4 {
+    font-size: 35px;
+}
+.awards-headings h2 {
+    font-size: 40px;
+}
+.awardimage {
+    display: flex;
+    justify-content: center;
+    height: 140px;
+}
+.Company {
+    font-size: 24px;
+}
+.Company_packag {
+    font-size: 26px;
+}
+
+/*.btn-sbmt {*/
+/*    right: 0%;*/
+/*}*/
+
+.btn-sbmt {
+    padding: 12px 25px;
+    font-size: 16px;
+    right: 0%;
+}
+
+.Email {
+    font-size: 14px;
+    padding: 15px 56px 15px 49px;
+    margin-right: -55px;
+    z-index: 0;
+}
+
+.need a {
+    float: right;
+    font-size: 18px;
+
+}
+
+.envelope {
+    font-size: 24px;
+    padding-top: 18px;
+    z-index: 1;
+    padding-left: 19px;
+}
+
+.Submit_Email {
+    width: 126px;
+    height: 66px;
+    background: #000000;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 900;
+     margin-top: 0px;
+}
+
+    .h2-form {
+    font-size: 24px;
+}
+
+.form-sub span {
+    font-size: 18px;
+}
+}
+
+
+ @media only screen and (max-width: 998px) {
+
+.awards-headings h2 {
+    font-size: 34px;
+}
+
+.Looking h1 {
+    font-size: 21px;
+}
+
+.menuinfo h3 {
+    font-size: 12px;
+}
+
+.form-sub {
+    font-size: 14px;
+}
+
+.portfolio-headings p {
+    font-size: 17px;
+}
+
+h1.headingCustom {
+    font-size: 30px;
+    position: relative;
+    right: 470px;
+}
+
+.pkgg {
+    margin-top: 0;
+}
+
+.pkgg p {
+font-size: 22px;
+}
+
+.pkgcontact h3 {
+    font-size: 11px;
+}
+
+}
+
+ @media only screen and (max-width: 992px) {
+
+/*.need a {  */
+/*  padding-right: 6px;*/
+/*    padding-top: 68px;*/
+/*}*/
+
+}
+
+ @media only screen and (max-width: 880px) {
+/*     .section-one {*/
+/*    padding: 20px 30px 0px 30px;*/
+/*}*/
+
+.subscribe-newsletter {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.contact {
+    padding-left: 0;
+}
+
+.website_details {
+     padding-left: 0; 
+}
+
+.menuinfo h3 {
+    font-size: 16px;
+}
+
+.awards-headings h2 {
+    font-size: 28px;
+}
+
+input.Email::placeholder {
+    color: #fff;
+    font-size: 12px;
+}
+
+.Email {
+    font-size: 12px;
+    padding: 10px 60px 10px 50px;
+    margin-right: -40px;
+    z-index: 0;
+}
+
+.btn-sbmt {
+    padding: 6px 20px;
+    font-size: 16px;
+    right: 0%;
+}
+
+.section-one {
+    padding: 20px 30px 0px 30px !important;
+}
+
+.ylBg h2 {
+    font-size: 15px;
+}
+
+h1.headingCustom {
+    font-size: 35px;
+    right: 415px;
+}
+
+.logodesign {
+    font-size: 35px;
+}
+
+.section-head p {
+    font-size: 38px;
+}
+     
+     .catebtn {
+    font-size: 13px;
+    padding: 8px 16px;
+    width: 114px;
+}
+     
+ }
+
+/*768 */
+@media only screen and (max-width: 768px) {
+  .section-two {
+    padding: 10px;
+}
+
+.pkgg p {
+    font-size: 16px;
+}
+
+.website_details {
+    padding-left: 65px;
+}
+  
+  
+  .Company_BG {
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.Email {
+    font-size: 12px;
+    padding: 10px 40px 10px 40px;
+    margin-right: -54px;
+    z-index: 0;
+}
+
+    .pkgg {
+    margin-left: 0px !important;
+}
+    /*.herobanner {*/
+    /*    height: 1050px;*/
+    /*}*/
+
+    .menuinfo h3 {
+        font-size: 13px;
+    }
+
+    .awardimage {
+        height: 80px;
+    }
+
+    .logo img {
+        width: 160px;
+    }
+    
+    .form-submit {
+        padding: 8px;
+        font-size: 16px;
+    }
+
+    /*.Email {*/
+    /*    margin-left: 0px;*/
+    /*    width: 360px;*/
+    /*    height: 56px;*/
+    /*    padding-left: 50px;*/
+    /*    font-size: 16px;*/
+    /*}*/
+
+    .envelope{
+        margin-bottom: -46px;
+    }
+    .Submit_Email {
+        width: 120px;
+        height: 45px;
+        margin-top: 5px;
+        font-size: 15px;
+    }
+
+
+
+    .form-col {
+        margin-top: 0px !important;
+    }
+
+    /*.ylBg h2 {*/
+    /*    font-size: 20px;*/
+    /*}*/
+    
+.ylBg h2 {
+    font-size: 16px;
+}
+    .nj {
+        font-size: 22px;
+    }
+.ban-desc {
+    font-size: 14px;
+    /*width: 350px;*/
+}
+
+.webnHeading {
+    font-size: 20px;
+}
+
+/*.counts {*/
+/*    margin-top: 104px;*/
+/*}*/
+
+.secOnePara {
+    font-size: 13px;
+}
+/*.logodesign{*/
+/*    display: none;*/
+/*}*/
+
+
+
+/*.portfolioimgs img{*/
+/*    width: 160px;*/
+/*    height: 150px;*/
+
+/*}*/
+
+
+.catebtn {
+    width: 105px;
+    font-size: 13px;
+    padding: 10px 5px;
+}
+/*.portfolio-headings{*/
+/*    padding-left: 100px;*/
+    
+/*}*/
+.pkgg {
+    padding-left: 0px;
+    /*margin-left: -20px;*/
+}
+
+.Satisfied {
+    font-size: 30px;
+}
+.check_out {
+    font-size: 30px;
+}
+
+
+.Check_img {
+    padding: 50px 0px;
+    margin-left: 65px;
+    height: 360px;
+}
+
+.Request {
+    margin-left: 0px;
+    width: 187px;
+    height: 50px;
+    font-size: 18px;
+}
+
+}
+
+@media only screen and (max-width: 767px) {
+.Looking h1 {
+    font-size: 22px;
+    text-align: center;
+}
+.email-col {
+    justify-content: center;
+}
+.call_toll {
+    font-size: 18px;
+    margin-top: 0;
+    padding-left: 0;
+}
+
+.need a {
+    float: none;
+    font-size: 18px;
+}
+.Request {
+
+     margin-top: 0px; 
+
+}
+.call_toll {
+    text-align: center;
+}
+.need {
+     margin-top: 0px; 
+     padding-right: 0px; 
+    text-align: center;
+    line-height: 1rem;
+}
+.row.ylBg {
+    display: flex;
+    justify-content: center;
+}
+.nj {
+    font-size: 22px;
+    text-align: center;
+}
+.ban-desc {
+    font-size: 17px;
+    text-align: center;
+}
+.discountBtn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 170px;
+
+}
+
+.herobanner {
+    height: 1000px;
+}
+h1.headingCustom {
+    font-size: 32px;
+    right: 345px;
+}
+.section-head p {
+    font-size: 26px;
+}
+}
+
+@media only screen and (max-width: 680px) {
+    .catebtn {
+    font-size: 12px;
+    width: 85px;
+    padding: 10px 0px;
+}
+.need a {
+    font-size: 16px;
+}
+
+.need {
+    margin-top: 96px;
+    padding-right: 5px;
+}
+
+}
+
+@media (min-width: 576px){
+.container {
+    max-width: none !important;
+}
+}
+
+/*mobile*/
+@media only screen and (max-width: 425px) {
+    .section-two {
+    padding: 10px;
+}
+    
+    .herobanner {
+    height: 1118px;
+}
+    .discountBtn {
+    font-size: 15px;
+}
+    .section-four {
+    padding-inline: 20px;
+}
+    
+    .section-head p {    
+        font-size: 18px;
+            padding-bottom: 20px;
+        
+    }
+    
+    .section-three {
+    padding: 30px;
+}
+    
+    .pkgg {
+     /*margin-left: 1px; */
+    padding-inline: 50px;
+    /*margin-top: 1px;*/
+    padding-top: 30px;
+}
+
+.Company_packag {
+    font-size: 16px;
+    line-height: 25px;
+}
+.Company {
+    font-size: 20px;
+}
+.logo {
+    text-align: center;
+}
+    .nj {
+        font-size: 20px;
+    }
+
+    .ylBg h2 {
+        font-size: 18px;
+        margin-top: -18px;
+}
+    
+    .h2-form {
+        font-size: 20px;
+    }
+
+    .form-sub {
+        font-size: 15px;
+        padding-top: 15px;
+    }   
+    .form-sub span {
+    font-size: 19px;
+}
+
+    .group {
+        margin-top: -40px;
+        margin-bottom: -40px;
+        width: 60px;
+    }
+    .webnHeading {
+        font-size: 18px;
+          margin-top: 40px;
+    }
+
+    .counts {
+        margin-top: 0px;
+        padding-inline: 20px;
+        margin-bottom: -60px;
+}
+
+.secOnePara {
+    font-size: 13px;
+    margin-top: -30px;
+    margin-bottom: -25px;
+}
+    .portfolio-headings p {
+            font-size: 14px;
+    /* width: 224px; */
+    margin-left: 0px;
+    padding-inline: 50px;
+    }
+
+.pkgg p {
+    /*margin-left: -50px; */
+    font-size: 14px;
+    /* width: 224px; */
+    padding-inline: 30px;
+}
+    .catebtn {
+        font-size: 13px;
+        padding: 7px 8px;
+        margin: 5px;
+        width: 120px;
+    }
+
+    .section-head h4{
+        font-size: 26px;
+            margin-top: -45px;
+    }
+    .item {
+     padding: 0px 25px;
+    height: 370px;
+    margin-top: -30px;
+    }
+    .contact {
+        padding-left: 40px;
+        font-size: 18px;
+    }
+    .website_desigen {
+        font-size: 30px;
+        padding-top: 25px; 
+    }
+    .website_details {
+        font-size: 14px;
+    }
+    
+    .icon img {
+    height: 145px;
+}
+
+    section {
+        padding: 20px 0;
+    }
+    .check_out {
+        font-size: 20px;
+    }
+
+    .Absolutely {
+        padding-top: 0px;
+        order: -1;
+        margin-top: -25px;
+    }
+    .awardimage {
+    height: 70px;
+}
+        .awards-headings h4 {
+        font-size: 30px;
+    }
+    .awards-headings h2 {
+        font-size: 26px;
+    }
+    .awards-headings p{
+        font-size: 14px;
+    }
+    
+    .content_ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.envelope {
+        padding-left: 33px;
+}
+.Computer {
+   width: 360px;
+    height: 315px;
+    margin-top: 3px;
+}
+
+.blkpopmobile {
+    height: 170px !important;
+}
+
+h1.headingCustom {
+    padding-top: 20px;
+}
+
+.popWhite {
+padding: 25px;
+}
+
+.popForm textarea {
+        height: 90px;
+         width: 100%;
+}
+.popForm input {
+margin-bottom: 20px;
+    width: 100%;
+}
+.popSubmit {
+    width:100%;
+}
+
+.Request {
+    margin-left: -75px;
+    width: 181px;
+    height: 46px;
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.call_toll {
+    font-size: 13px;
+    padding-top: 23px;
+    padding-left: 20px;
+}
+.need a {
+    float: right;
+    padding-top: 20px;
+    font-size: 13px;
+    padding-right: 23px;
+}
+.need {
+    margin-top: 46px;
+    padding-right: 0px;
+}
+
+.ready {
+margin-top: -67px;
+}
+
+.Satisfied {
+    margin-top: -30px;
+}
+.portfolio-headings {
+    padding-left: 0px;
+}
+
+.blkorn {
+    font-size: 16px;
+}
+
+/*.pkgg h2 {*/
+/*    width: 135px;*/
+/*}*/
+
+.blkorn1 {
+    font-size: 20px;
+    text-align: center;
+
+}
+    .SCR p {
+    text-align: right;
+}
+
+.Email {
+    width: 315px;
+    
+}
+
+}
+
+
+@media only screen and (max-width: 375px) {
+
+    .form-sub span {
+    font-size: 16px;
+}
+    .pkgg {
+    margin-left: 0px;
+}
+   .need a {
+    
+        padding-top: 25px;
+    padding-right: 23px;
+   }
+   
+    .awardimage {
+        height: 70px;
+    }
+    
+    .icon img {
+        height: 150px;
+    }
+    .item p {
+        font-size: 13px;
+    }
+    .item h6 {
+        font-size: 24px;
+    }
+
+    .website_desigen {
+        font-size: 28px;
+    }
+
+    .contact {
+        padding-left: 10px;
+        font-size: 16px;
+        padding-top: 10px;
+    }
+    .Looking h1 {
+        font-size: 20px;
+    }
+    .discountBtn {
+        margin-top: 6px;
+        padding: 10px;
+    }
+    
+    .form-col {
+    margin-top: 16px;
+}
+.blkpopmobile {
+    height: 140px !important;
+}
+.Computer {
+    width: 100%;
+    height: 300px;
+}   
+.portfolio-headings {
+    padding-left: 0px;
+}
+.blkorn {
+    font-size: 16px;
+    /*width: 150px;*/
+}
+.pkgg h2 {
+    /*width: 104px;*/
+}
+
+.ban-desc {
+    font-size: 13px;
+}
+.Satisfied {
+    margin-top: -75px;
+}
+
+}
+
+@media only screen and (max-width: 365px) {
+    .section-one {
+    padding: 40px 20px!important;
+}
+    
+    .need a {
+    padding-top: 19px;
+    padding-right: 20px;
+}
+    .ylBg h2 {
+    font-size: 15px;
+}
+
+.nj {
+    font-size: 18px;
+}
+
+.discountBtn {
+    margin-left: -10px;
+}
+
+.awardimage {
+    height: 63px;
+}
+
+.awards-headings h2 {
+    font-size: 22px;
+}
+    
+}
+
+@media only screen and (max-width: 325px) {
+    .section-three {
+    padding: 8px;
+}
+    .blkorn1 {
+    font-size: 20px;
+}
+
+.blkpopmobile {
+    height: 120px !important;
+}
+       .herobanner {
+        height: 1075px;
+        background-repeat: repeat;
+    }
+    .discountBtn {
+        font-size: 16px;
+        margin-left: -10px;
+    }
+    .h2-form {
+        font-size: 18px;
+    }
+    .form-sub span {
+        font-size: 16px;
+    }
+
+    .menuinfo {
+        padding-top: 20px;
+        margin-bottom: -25px;
+    }
+    .group {
+        margin-top: -11px;
+    }
+    .webnHeading {
+        font-size: 16px;
+            padding-top: 20px;
+    }
+
+    .portfolio-headings {
+        padding-left: 65px;
+    }
+    .portfolio-headings p {
+    
+        margin-left: -47px;
+    }
+    .portfolioimgs img {
+        width: 135px;
+        height: 135px;
+    }
+   
+    .group1 {
+        float: right;
+        width: 70px;
+    }
+  
+    .icon img {
+        height: 130px;
+    }
+  
+    .Satisfied {
+        font-size: 26px;
+    }
+    .Absolutely_heading {
+        font-size: 30px;
+    }
+    .Jack_Nitzsche {
+        font-size:25px;
+    }
+    .awards-headings h2 {
+        font-size: 22px;
+    }
+    .awards-headings h4 {
+        font-size: 26px;
+    }
+    
+    
+    
+    .awardimage {
+        height: 60px;
+    }
+    .Email {
+        width: 300px;
+    }
+           .need a {
+       padding-top: 28px;
+    font-size: 12px;
+}
+   
+    
+     .pkgg {
+        
+        margin-left: 0px;
+    }
+     .blkorn {
+        font-size: 22px;
+        margin-left: 0px;
+    }
+  
+    .pkgg p {
+    /* margin-left: -15px; */
+    padding-inline: 0px;
+}
+    
+    .Computer {
+    width: 275px;
+    height: 250px;
+    margin-top: 5px;
+}
+.menuinfo h3 {
+    font-size: 12px;
+}
+  
+}
+
+
+@media only screen and (max-width: 991px) {
+.menuinfo h3 {
+    font-size: 12px;
+}
+
+    .form-col {
+    height: 450px;
+}
+    
+    .blkpopdesktop{
+        display:none;
+    }
+.blkpopmobile {
+    height: 210px;
+    display:block;
+}
+
+    
+}
+a{
+     text-decoration: none !important;
+}
+
+

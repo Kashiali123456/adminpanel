@@ -1,0 +1,310 @@
+/*custom*/
+@media(max-width: 1500px)
+{
+	/*package*/
+	.package .package-slide
+	{
+		padding: 0;
+	}
+	/*end package*/
+}
+@media(max-width: 1330px)
+{
+	/*section one*/
+	.section-one-box1 , .section-one-box2 , .section-one-box3
+	{
+		height: 130px;
+		width: 130px;
+	}
+	.section-one-bottom
+	{
+	    font-size: 5.93rem;
+	}
+	/*end section one*/
+
+	/*why choose*/
+	.why-choose .bg-image
+	{
+		width: 280px;
+	}
+	.why-choose-img
+	{
+		width: 100%; 
+	}
+	.bg-image .why-choose-p
+	{
+		top: 25%;
+		left: 15%;
+		right: 25%;
+	}
+	.why-choose .why-choose-icon
+	{
+		top: 15px;
+	}
+	/*end why choose*/
+}
+@media(max-width: 1300px)
+{
+	/*why choose*/
+	.why-choose
+	{
+		padding: 50px 0 0 0;
+	}
+	
+}
+
+/*col-lg*/
+@media(max-width: 1199px)
+{
+	/*nav*/
+	.social-top
+	{
+		display: none;
+	}
+	/*end nav*/
+
+	/*section one*/
+	.section-one-bottom
+	{
+		margin-top: 0px;
+	}
+	.section-one-bottom
+	{
+	    font-size: 4.93rem;
+	}
+	/*end section one*/
+	
+
+	/*why choose*/
+	/*.why-choose .bg-image*/
+	/*{*/
+	/*	width: 320px;*/
+	/*}*/
+	.why-choose-img
+	/*{*/
+	/*	width: auto; */
+	/*}*/
+	.bg-image .why-choose-p
+	{
+		top: 30%;
+		left: 20%;
+		right: 25%;
+	}
+	.why-choose .why-choose-icon
+	{
+		top: 30px;
+	}
+	.why-choose-border-full
+	{
+		display: none;
+	}
+	.why-choose-border-single
+	{
+		display: block;
+	}
+	/*end why choose*/
+	/*section one*/
+	.section-one-box1 , .section-one-box2 , .section-one-box3
+	{
+	height: 150px;
+	width: 150px;
+	}
+	/*end section one*/
+}
+/*col-md*/
+@media(max-width: 991px)
+{
+	/*subscribe*/
+	.subscribe h3
+	{
+		text-align: center;
+	}
+	/*end subscribe*/
+
+	/*section one*/
+	.section-one-bottom
+	{
+	    font-size: 4.00rem;
+	}
+	/*end section one*/
+	/*section tow*/
+	.section-two-bg-img
+	{
+		width: auto;
+	}
+	/*end section two*/
+	/*section four*/
+	.section-four-content
+	{
+		padding: 80px 0 80px 0;
+	}	
+	/*end section four*/
+	/*happy client*/
+	.owl-item.active.center > div .happy-item {
+ 	margin: 0;
+	}
+	.owl-item.active.center > div .happy-item p{
+	 	padding-left: 5px;
+	 	padding-right: 5px;
+	}
+	/*end happy client*/
+	/*footer*/
+	.border-md-none
+	{
+		border: none !important;
+	}
+	/*footer end*/
+}
+/*col-sm*/
+@media(max-width: 767px)
+{
+	/*subscribe*/
+	.subscribe .container
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.input-container
+	{
+		padding-left: 0px;
+	}
+	/*end subscribe*/
+	/*nav*/
+	.head-col-2 , .head-col-3
+	{
+    display: none !important;
+	}
+	.mobile-nav-icon
+	{
+		padding-top: 40px;
+	}
+	/*end nav*/
+	/*section one*/
+	.section-one-bottom
+	{
+	    font-size: 3.00rem;
+	}
+	/*end section one*/
+	/*happy client*/
+	.happy-client .container 
+	{
+		margin-top: 0;
+	}
+	.logo{
+	    width:100px;
+	}
+	/*end happy client*/
+}
+
+@media(max-width: 670px)
+{
+   
+	.logo{
+	    width: 100px;
+	}
+
+}
+/*@media(max-width: 718px)*/
+/*{*/
+/*    	.head-col-2 , .head-col-3*/
+/*	{*/
+/*	      display: flex !important;*/
+/*      width: 376px;*/
+
+/*	}*/
+/*}*/
+/*@media(max-width: 767px)*/
+/*{*/
+/*    	.head-col-2 , .head-col-3*/
+/*	{*/
+/*	      display: none !important;*/
+  
+
+/*	}*/
+/*	.logo{*/
+/*	   text-center:left;*/
+/*	}*/
+	
+/*}*/
+
+/*@media(max-width: 699px)*/
+/*{*/
+/*    	.head-col-2 , .head-col-3*/
+/*	{*/
+/*	      display: flex !important;*/
+/*      width: 376px;*/
+/*	}*/
+/*}*/
+/*col-lower*/
+@media(max-width: 575px)
+{
+	/*section one*/
+	.section-one {
+     padding: 0 5% 0 5%;
+     text-align: left; !important;
+	}
+	
+	/*subscribe*/
+	.sub-btn
+	{
+		padding: 6px 20px 6px 20px;
+		margin-top: 10px;
+		font-size: 14px;
+	}
+	.input-field,.sub-icon
+	{
+		height: 55px;
+	}
+	.sub-icon
+	{
+		padding-top: 11px;
+	}
+	/*end subscribe*/
+	/*award*/
+	.section-award img
+	{
+		width: 100%;
+	}
+	/*end award*/
+
+	/*package*/
+	.package .container-fluid
+	{
+		padding: 0 5% 0 5%;
+	}
+	.package-box , .package-middle-box
+	{
+		width: 300px !important;
+	}
+	.package-heading {
+    	width: 340px !important;
+   	}
+	.package-heading-top-white , .package-heading-bottom-white {
+    	width: 296px !important;
+	}
+	.package .package-tab , .package-tab-active , #tab-btn .tab-btn{
+    font-size: 14px;
+    width: 130px;
+    height: 40px;
+	}
+	.package-details p {
+    font-size: 12px;
+	}
+	.package-bottom a
+	{
+		display: block;
+		margin-top: 10px;
+	}
+	.package-bottom .package-bottom-btn1
+	{
+		width: 100%;
+	}
+
+}
+	/*end package*/
+
+@media(max-width: 325px) {
+section.subscribe.container-fluid {
+    width: 103%;
+}
+}

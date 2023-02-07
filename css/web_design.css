@@ -1,0 +1,4563 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ body{
+	overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.Black_firday {
+    width: 413px;
+    margin-left: -231px;
+    margin-top: -67px;
+    margin-bottom: -68px;
+}
+.Black{
+    display:none;
+}
+.close_btn {
+    font-size: 36px;
+}
+.fill_out {
+    color: #000000;
+    font-size: 37px;
+    font-family: 'Raleway';
+    font-weight: 900;
+    padding-bottom: 50px;
+}
+.fill_name {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    height: 50px;
+    opacity: 0.7;
+}
+.fill_message {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    color: #000;
+    height: 200px;
+    opacity: 0.7;
+}
+.send_mess {
+    background: #000000;
+    font-size: 36px;
+    font-family: 'Raleway';
+    font-weight: 900;
+    color: #fff;
+    width: 100%;
+    margin-top: 20px;
+}
+/* -------------------------------black friday----------------------- */
+
+.banner_images {
+
+	 width:  100%;
+	background: linear-gradient(36.92deg, #F56B4B 11.65%, #0B2C4A 57.1%), #FFFFFF;
+	padding-bottom: 100px;
+	overflow-x: hidden;
+	margin-top: -200px
+}
+.logo{
+	width: 391px;
+	height: 171px;
+}
+.navbar .navbar_links  {
+	font-family: 'Raleway';
+    font-size: 20px;
+    color: #000;
+    overflow: hidden;
+    font-weight: 900;
+
+    
+}
+.navbar{
+	z-index: 1 !important;
+
+}
+.navbar .navbar_links img{
+	 margin-top: 20px;
+}
+.banner_heading {
+    font-size: 59px;
+    font-weight: 900;
+    color: #fff;
+    padding-top: 20px;
+    padding-left: 173px;
+}
+.row.web_row {
+    margin-top: 200px;
+}
+img.rotatae_img {
+    margin-top: -200px;
+}
+.banner_deatil {
+    color: #fff;
+    font-weight: 500;
+    font-size: 36px;
+    width: 885px;
+    padding-left: 156px;
+    font-family: 'Raleway';
+}
+.back_img {
+    background-image: url(/images/Figure.png);
+    margin-top: -227px;
+    z-index: 0;
+    padding-top: 200px;
+    padding-left: 80px;
+    background-repeat: no-repeat;
+    padding-bottom: 230px;
+    float: right;
+}
+.Designers_ul li i{
+	color: #fff;
+}
+.cot_padding {
+    padding-left: 150px;
+}
+.Designers_ul{
+	color: #fff;
+	padding-left: 156px;
+	padding-top: 50px;
+	
+}
+.Designers_ul li{
+	overflow: hidden;
+	width: 885px;
+	font-size: 32px;
+	font-weight: 400;
+	font-family: 'Raleway';
+	
+}
+.Lets_Talk{
+	width: 290px;
+height: 77px;
+background: #FFFFFF;
+border-radius: 8px;
+border: transparent;
+font-size: 36px;
+color: #F29E29;
+font-weight: 700;
+}
+.discount {
+    width: 405px;
+    height: 86px;
+    background: #F29E29;
+    border-radius: 12px;
+    margin-top: 60px;
+}
+.discount h1{
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 38px;
+	color: #fff;
+	text-align: center;
+	padding: 20px 0px 10px 0px;
+}
+.Get_Started {
+    color: #000;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 150px;
+}
+.Requirments{
+
+font-family: Raleway;
+font-size: 33px;
+font-weight: 900;
+text-align: center;
+color: #F29E29;
+padding-left: 150px;
+}
+.Requirments_form input {
+    width: 500px;
+    height: 57px;
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    border: transparent;
+    border-bottom: 20px;
+    padding-left: 20px;
+    margin-left: 200px;
+}
+.Submit {
+    width: 500px;
+    height: 57px;
+    background: #F29E29;
+    border-radius: 15px;
+    font-family: Raleway;
+    font-size: 33px;
+    font-weight: 600;
+    text-align: center;
+    border: transparent;
+    color: #fff;
+    margin-left: 200px;
+}
+/* ---------------------header end--------------------- */
+.Side_img {
+    padding-top: 100px;
+   
+}
+.webnHeading {
+    text-align: center;
+    color: #F29E29;
+    font-weight: 900;
+    font-size: 51px;
+    margin-top: -146px;
+    padding-bottom: 40px;
+}
+.Join_col5 {
+    padding-left: 100px;
+}
+.blkorn {
+    color: black;
+    font-weight: 800;
+    font-size: 35px;
+}
+.blkorn span{
+   color: #F29E29;
+   font-size: 35px;
+   
+   }
+.webndetail {
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 600;
+    /* width: 105%; */
+    text-align: justify;
+}
+.Clients{
+	padding-top: 200px;
+}
+h2#numberWang {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 32px;
+}
+.Join_col5 {
+    padding-left: 100px;
+    margin-top: -100px;
+}
+.Clients_Satisfaction{
+	width: 137px;
+height: 54px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #000000;
+}
+h2#numberWang2 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 32px;
+}
+.Creative_Geeks{
+	width: 137px;
+height: 54px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #000000;
+}
+.Creative {
+    padding-top: -400px;
+    padding-left: 200px;
+    margin-top: -200px;
+}
+h2#numberWang3 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 32px;
+}
+.Leads_Generated{
+	width: 137px;
+height: 54px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+color: #000000;
+}
+.Leads {
+    padding-top: -400px;
+    padding-left: 400px;
+    margin-top: -45px;
+}
+h2#numberWang4 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 32px;
+}
+h2#numberWang5 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 53px;
+}
+h2#numberWang6 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 32px;
+}
+.counters {
+    padding-top: -200px;
+    margin-top: -129px;
+}
+h2#numberWang7 {
+	font-family: Raleway;
+    font-size: 36px;
+    font-weight: 900;
+    color: #F29E29;
+	padding-left: 53px;
+}
+.Countries {
+  
+    padding-left: 231px;
+  
+}
+
+.box_join{
+	width: 152px;
+height: 152px;
+background: #0B2C4B;
+border-radius: 50%;
+padding: 20px 25px 20px 25px;
+}
+.Attractive_design {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+    padding-top: 10px;
+}
+.Join_col5 {
+    padding-left: 100px;
+}
+.box_join2{
+	width: 152px;
+height: 152px;
+background: #AB5652;
+border-radius: 50%;
+padding: 20px 25px 20px 25px;
+}
+.box_join3{
+	width: 152px;
+height: 152px;
+background:  #F2A124;
+border-radius: 50%;
+padding: 20px 25px 20px 25px;
+}
+.LOGO_DESIGN {
+    font-family: 'Raleway';
+    font-size: 54px;
+    rotate: -90deg;
+    left: -88px;
+    color: #fff;
+    -webkit-text-stroke: 1px black;
+    position: absolute;
+    /* float: right; */
+    top: 200px;
+    width: 320px;
+}
+.container.sec1500 {
+  
+    max-width: 100%;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.Slide_img2 {
+    float: right;
+    margin-top: -196px;
+}
+.logo_web {
+    font-family: 'Raleway';
+    font-size: 64px;
+    rotate: -90deg;
+    position: absolute;
+    color: #fff;
+    -webkit-text-stroke: 1px black;
+    left: -296px;
+    margin-top: -834px;
+}
+/* ----------------------------------------Join end---------------------------- */
+/* <!-- ---------------------------------------Our Packages--------------------------------------- --> */
+.packages_fulid{
+    padding-left:150px;
+    padding-right:150px;
+}
+
+.our_Packages {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 32px;
+    color: #F29E29;
+    text-align: center;
+}
+.Budget_friendly {
+    font-family: 'Raleway';
+    font-weight: 900;
+    font-size: 48px;
+    color: #000000;
+    text-align: center;
+    padding-top: 20px;
+}
+.Utilize {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    color: #F29E29;
+    padding-top: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.basic_box {
+    max-width: 31%;
+    border: 1px solid #F29E29;
+    border-radius: 28px;
+    padding-bottom: 20px;
+    margin: 16px;
+}
+.basic_box:hover{
+    background: #F29E29 ;
+    color: #FFF;
+}
+.basic_box:hover h2{
+    background: #F29E29 ;
+    color: #FFF;
+}
+.basic_box:hover div.price_basic h2{
+    background: #fff ;
+    color: #F29E29;
+}
+.basic_box:hover button{
+    background: #fff ;
+    color: #F29E29;
+}
+.basic_box:hover h4{
+    background: #F29E29 ;
+    color: #FFF;
+}
+.basic_logo{
+    font-family: 'Raleway';
+    font-weight: 900;
+    font-size: 28px;
+    color: #F29E29;
+    padding-top: 20px;
+}
+
+.JUST{
+    font-family: 'Raleway';
+    font-weight: 900;
+    font-size: 28px;
+    color: #000;
+    padding-bottom: 20px;
+}
+.price_basic {
+    width: 413px;
+    height: 75px;
+    background: #F29E29;
+    margin: 9px;
+}
+.price_basic h2{
+    font-family: Raleway;
+        font-size: 54px;
+        font-weight: 900;
+        text-align: center;
+        color: #fff;
+}
+.Unique_Logo {
+    padding-top: 20px;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size: 18px;
+    overflow: auto;
+    height: 204px;
+}
+.Unique_Logo::-webkit-scrollbar {
+    width: 1vw;
+}
+.Unique_Logo::-webkit-scrollbar-thumb {
+    background-color: #6a6169;
+     /* border: 0.2vw solid #ffffff;  */
+    border-radius: 1vw;
+}
+
+.Unique_Logo::-webkit-scrollbar-track {
+    background-color: #dedede;
+    border-radius: 11px;
+}
+
+.obc{
+    text-align: center;
+}
+.order_now {
+    border: transparent;
+    width: 185px;
+    height: 61px;
+    background: #F29E29;
+    border-radius: 7px;
+    font-family: Raleway;
+    font-size: 24px;
+    font-weight: 900;
+    color: #fff;
+    margin-top: 30px;
+}
+.order_now :hover{
+    border: transparent;
+    
+}
+.Share_your{
+    padding-top: 20px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: left;
+}
+.discuss {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 900;
+    color: #F29E29;
+    padding-top: 20px;
+    padding-left: 59px;
+}
+.modal-content {
+    background: #0B2C4A;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline: 20px;
+}
+.get_touct {
+    font-size: 40px;
+    font-weight: 900;
+    font-family: Raleway;
+    padding-left: 20px;
+    
+}
+
+.order_mess {
+    padding: 10px 20px 10px 20px;
+    background:#fff ;
+    color: #0B2C4A;
+    border-radius: 15px;
+    border: none;
+}
+.get_touct_ul {
+    font-size: 13px;
+    padding-left: 20px;
+}
+.get_touct_ul li{
+    overflow: hidden;
+}
+.input_name {
+    background: #0B2C4A;
+    border: 1px solid #fff;
+    width: 100%;
+    border-radius: 8px;
+    height: 46px;
+    padding: 12px;
+    color: #fff;
+}
+.input_name.textarea{
+    height: 100px;
+    color: #fff;
+}
+/* <!-- ---------------------------------------Our Packages end--------------------------------------- --> */ 
+/* <!-- ----------------------Reputable website design ---------------------------- --> */
+/*.web_imag {*/
+/*    width: 541px;*/
+/*    height: 472px;*/
+/*}*/
+.reputable{
+    font-family: Raleway;
+    font-size: 44px;
+    font-weight: 900;
+}
+section.Reputable {
+    padding-top: 50px;
+}
+.Reputable_fulid{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.reputable_details {
+    font-family: Raleway;
+    font-size: 23px;
+    font-weight: 600;
+    text-align: justify;
+}
+/* <!-- ----------------------Reputable website design end---------------------------- --> */
+/* <!-- --------------------------------Our Recent Work ---------------------------------------- --> */
+.Recent_Work{
+    padding-top: 100px;
+    font-family: Raleway;
+font-size: 48px;
+font-weight: 900;
+text-align: center;
+
+}
+.recent_fulid{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.mobile_size {
+    height: 340px;
+}
+.row.recent_work_img {
+    padding-top: 50px;
+}
+.Ecommerce_btn {
+    width: 172px;
+    height: 50px;
+    background: #F29E29;
+    border-radius: 7px;
+    border: transparent;
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    color: #fff;
+    margin: 14px;
+}
+div#tab_btn {
+    text-align: center;
+}
+.Recent_image {
+    width: 318px;
+    height: 293px;
+}
+/* <!-- --------------------------------Our Recent Work end---------------------------------------- --> */
+/* <!-- -----------------------------------Eager to get your website---------------------------------------- --> */
+.Eager {
+    padding-top: 100px;
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 900;
+}
+.Eager_Fulid{
+       padding-left: 150px;
+    padding-right: 150px;
+}
+.Eager_details {
+    /*width: 661px;*/
+    height: 84px;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 23px;
+    color: #000000;
+}
+.Eager_img {
+    /* width: 500px; */
+    /* height: 465px; */
+    margin-left: -21px;
+    padding-top: 100px;
+}
+section.Eager_Website {
+ 
+}
+/* <!-- -----------------------------------Eager to get your website end---------------------------------------- --> */
+/* <!-- --------------------Ready to get your ---------------------- --> */
+.ready {
+    background: #F29E29;
+}
+.ready_fulid{
+    Padding-left:150px;
+    padding-right: 150px;
+}
+.website_desigen {
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-left: 35px;
+    color: #000000;
+}
+.Computer{
+    width:100%;
+}
+.Computer_col8 {
+    padding-left: 66px;
+}
+.website_details{
+    font-family: 'Raleway';
+        font-weight: 600;
+        font-size: 20px;
+        color: #FFFFFF;
+        padding-left: 35px;
+}
+.contact{
+    font-family: 'Raleway';
+font-weight: 500;
+font-size: 24px;
+color: #000000;
+transform: rotate(0.4deg);
+padding-left: 35px;
+}
+.contact_oder {
+    width: 153px;
+    height: 47px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    margin-left: 74px;
+    border: transparent;
+    margin-top: 20px;
+    color: #000;
+}
+/* <!-- --------------------Ready to get your end---------------------- --> */
+/* <!-- -----------------------Satisfied Clients!--------------- --> */
+.Satisfied {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    color: #000000;
+    padding-top: 50px;
+    text-align: center;
+}
+.check_out{
+    font-family: 'Raleway';
+
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+color: #000000;
+
+}
+.satisfied_fulid {
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.Check_bg {
+    background: #F29E29;
+    width: 91%;
+}
+.Check_img {
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+    height: 500px;
+}
+.Absolutely {
+    padding-top: 100px;
+
+}
+.Absolutely_heading {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 800;
+    color: #000;
+    padding-top: 30px;
+}
+.Absolutely_details {
+    font-family: Manrope;
+    font-size: 26px;
+    font-weight: 400;
+    color: #808080;
+}
+.Jack_Nitzsche{
+    font-family: Manrope;
+    font-size: 28px;
+    font-weight: 800;
+}
+.Investor{
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 400;
+}
+.col.Investor_img {
+    text-align: right;
+}
+/* <!-- -----------------------Satisfied Clients! end--------------- --> */
+/* <!-- ------------------------Awards & Recognitions --------------- --> */
+.topers {
+    text-align: center;
+}
+.Awards_fulid{
+     padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+
+}
+
+.Awards{
+    font-family: Raleway;
+font-size: 48px;
+font-weight: 900;
+text-align: center;
+
+}
+.Top_Web {
+    font-family: Raleway;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+}
+.top_details{
+    font-family: Raleway;
+    font-size: 8px;
+    font-weight: 500;
+    text-align: center;
+
+}
+.Top_img {
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-bottom: 10px;
+    height: 136px;
+}
+/* <!-- ------------------------Awards & Recognitions end--------------- --> */
+/* <!-- --------------------------------- Company like Web ----------------------------- --> */
+.Company_BG {
+    background: #F29E29;
+    border-radius: 50px;
+    padding-bottom: 20px;
+}
+.company_fulid{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.Company{
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 50px 10px 0px 10px;
+    text-align: center;
+    color: #fff;
+}
+.Company_packag{
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.call_toll {
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    color: #fff;
+    padding-top: 70px;
+    margin-left: -80px;
+}
+.phone {
+    font-size: 49px;
+    color: #000;
+    padding-top: 66px;
+    padding-left: 52px;
+}
+.Request{
+    background: #fff;
+    border-radius: 50px;
+    width: 230px;
+    height: 63px;
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    text-align: center;
+    color: #F29E29;
+    border: transparent;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+.need {
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    text-align: right;
+    color: #fff;
+    padding-top: 70px;
+    padding-right: 31px;
+}
+/* <!-- --------------------------------- Company like Web end----------------------------- --> */
+/* <!-- ---------------------------Looking for the finest---------------------------- --> */
+.Looking h1 {
+    font-size: 31px;
+    font-weight: 900;
+    font-family: Raleway;
+    color: #F29E29;
+}
+.finest_fulid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+       padding-left: 150px;
+    padding-right: 150px;
+}
+.Email {
+    width: 627px;
+    height: 76px;
+    background: #F29E29;
+    border-radius: 50px;
+    border: transparent;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 900;
+    padding-left: 65px;
+    margin-top: 30px;
+    margin-left: -87px;
+}
+.Submit_Email {
+    width: 176px;
+    height: 76px;
+    background: #000000;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 30px;
+    margin-left: -20px;
+}
+.envelope {
+    font-size: 35px;
+    padding-top: 41px;
+    z-index: 1;
+    padding-left: 74px;
+}
+/* <!-- ---------------------------Looking for the finest end---------------------------- --> */
+/* / info tab / */
+.session {
+    background: #F29E29;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+ .content_ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ .content_ h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.text h3 {
+    font-size: 26px;
+}
+.session .content_ a {
+    text-decoration: none;
+    color: #002E45;
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+}
+/* / info tab end / */
+/* -----------------------------MEDIA ----------------- */
+@media(max-width: 1440px){
+.banner_images {
+    width: 1440px;
+}
+.navbar .navbar_links {
+    font-size: 14px;
+    padding-right: 10px;
+}
+.navbar {
+    float: right;
+}
+.discount {
+    width: 299px;
+}
+.Get_Started {
+    color: #000;
+    font-size: 17px;
+}
+.ready_fulid {
+    Padding-left: 0px;
+    padding-right: 0px;
+}
+.cot_padding {
+    padding-left: 83px;
+}
+.Requirments {
+    font-size: 19px;
+}
+.Requirments_form input {
+    width: 402px;
+}
+.banner_heading {
+    font-size: 51px;
+    font-weight: 900;
+    color: #fff;
+    /* text-align: center; */
+    padding-top: 20px;
+    padding-left: 173px;
+}
+.banner_deatil {
+    color: #fff;
+    font-weight: 500;
+    font-size: 25px;
+    width: 100%;
+    padding-left: 156px;
+    font-family: 'Raleway';
+    text-align: justify;
+}
+.Submit {
+    width: 401px;
+}
+.back_img {
+  margin-left: 0px;
+}
+/* --------------------section2----------- */
+.LOGO_DESIGN {
+    left: -94px;
+    font-size: 54px;
+    width: 319px;
+}
+.Join_col5 {
+    padding-left: 0px;
+}
+.webndetail {
+    font-size: 18px;
+}
+.Slide_img2 {
+    margin-right: 8px;
+}
+.Join_col5 {
+    padding-left: 0px;
+}
+
+/* ------------------------------section3--------------- */
+.price_basic {
+    width: 323px;
+}
+.packages_fulid {
+    padding-left: 135px;
+    padding-right: 78px;
+}
+
+.logo_web {
+    font-family: 'Raleway';
+    font-size: 55px;
+    rotate: -90deg;
+    position: absolute;
+    color: #fff;
+    -webkit-text-stroke: 1px black;
+    left: -246px;
+    margin-top: -834px;
+}
+.basic_box {
+    max-width: 30%;
+}
+.discuss {
+    padding-left: 0px;
+}
+/* ----------------------section4------------------ */
+img.web_imag {
+    width: 135%;
+}
+
+.Reputable_fulid {
+    padding-left: 150px;
+}
+.reputable_details {
+    font-family: Raleway;
+    font-size: 17px;
+    font-weight: 600;
+    text-align: justify;
+    width: 573px;
+}
+.reputable {
+    font-family: Raleway;
+    font-size: 34px;
+    font-weight: 900;
+}
+/* -------------------section5-------------------- */
+.recent {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Recent_image {
+    width: 300px;
+    height: 272px;
+}
+.recent_fulid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/* -------------------section6---------------------- */
+.Eager {
+    padding-top: 100px;
+    font-family: Raleway;
+    font-size: 33px;
+    font-weight: 900;
+}
+.Eager_img {
+    width: 100%;
+    margin-left: 51px;
+}
+.text h3 {
+    font-size: 21px;
+}
+/* ------------------section7---------------- */
+
+.ready {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.website_desigen {
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 35px;
+    color: #000000;
+}
+/* ----------------------------section8--------------- */
+.Satisfied_Clients {
+    width: 1440px;
+}
+/* ----------------------section9------------------ */
+.Awards_Recognitions {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 1440px;
+}
+.Top_img {
+    padding-left: 15px;
+    padding-right: 26px;
+    padding-bottom: 10px;
+    /* height: 136px; */
+}
+.Top_Web {
+    font-family: Raleway;
+    font-size: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+/* -----------------------section10----------------- */
+.Company_BG {
+    margin-left: -41px;
+    margin-right: 32px;
+    width: 1241px;
+}
+.call_toll {
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 900;
+    color: #fff;
+    padding-top: 70px;
+    margin-left: -54px;
+}
+
+
+/* ------------------section11----------- */
+.looking_finest {
+    width: 1440px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Looking h1 {
+    font-size: 28px;
+    font-weight: 900;
+    font-family: Raleway;
+    color: #F29E29;
+}
+.Submit_Email {
+    margin-left: 61px;
+}
+.Email {
+    width: 547px;
+}
+.finest_fulid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.envelope {
+    padding-left: 38px;
+}
+.session {
+    width: 1440px;
+    overflow-x: hidden;
+}
+.session .content_ a {
+    font-size: 12px;
+}
+}
+/* -------------------------1366px-------------------- */
+@media(max-width: 1366px){
+.banner_images {
+    width: 100%;
+    overflow-x: hidden;
+}
+section.JOIN {
+    width: 1366px;
+}
+.LOGO_DESIGN {
+    font-size: 42px;
+}
+section.Packages {
+    width: 1366px;
+    padding-left: 50px;
+}
+.packages_fulid {
+    padding-left: 51px;
+    padding-right: 51px;
+}
+.recent {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 1366px;
+}
+.Recent_image {
+    width: 283px;
+    height: 263px;
+}
+.Awards_fulid {
+     padding-left: 0px; 
+     padding-right: 0px; 
+    padding-bottom: 50px;
+}
+.Eager {
+    font-size: 31px;
+}
+.Satisfied_Clients {
+    width: 1366px;
+}
+.Eager_img {
+    padding-top: 50px;
+    margin-left: 88px;
+}
+.Eager_details {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 16px;
+}
+.satisfied_fulid {
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+.ready {
+    margin-left: 76px;
+    margin-right: 62px;
+}
+.Awards_Recognitions {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 1366px;
+}
+.Company_BG {
+    /* margin-left: 76px; */
+    width: 1175px;
+}
+.company_fulid {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.finest_fulid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.Looking h1 {
+    font-size: 26px;
+    font-weight: 900;
+    font-family: Raleway;
+    color: #F29E29;
+}
+.Email {
+    width: 486px;
+}
+.Submit_Email {
+    margin-left: -45px;
+}
+.envelope {
+    padding-left: 49px;
+}
+.looking_finest {
+    width: 1366px;
+    padding-left: 100px;
+     padding-right: 0px; 
+}
+.session {
+    width: 100%;
+}
+.text h3 {
+    font-size: 20px;
+}
+}
+/* -------------------------1280px-------------------- */
+@media(max-width:1280px){
+.banner_images {
+    width: 100%;
+}
+.Designers_ul li {
+    font-size: 28px;
+}
+section.JOIN {
+    width: 1280px;
+}
+.recent {
+    width: 1280px;
+}
+section.Packages {
+    width: 1280px;
+    padding-left: 50px;
+}
+.price_basic {
+    width: 293px;
+}
+.Recent_image {
+    width: 250px;
+    height: 250px;
+}
+.mobile_size {
+    height: 310px;
+}
+.Slide_img2 {
+    margin-right: 4px;
+}
+.Eager {
+    font-size: 26px;
+}
+.Eager_details {
+    font-size: 17px;
+}
+.Eager_img {
+    width: 100%;
+    padding-top: 0px;
+}
+.LOGO_DESIGN {
+    font-size: 40px;
+    top: 200px;
+    left: -102px;
+}
+section.Eager_Website {
+    width: 1280px;
+}
+img.web_imag {
+    width: 159%;
+}
+
+.ready_fulid {
+    Padding-left: 0px;
+    padding-right: 0px;
+}
+.Satisfied_Clients {
+    width: 1280px;
+}
+.satisfied_fulid {
+    padding-right: 120px;
+    padding-left: 120px;
+}
+.Awards_fulid {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+}
+/*.ready {*/
+/*    margin-right: -114px;*/
+/*}*/
+.Ready_get {
+    padding-inline: 50px;
+}
+.website_desigen {
+    font-size: 30px;
+}
+.website_details {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-left: 35px;
+}
+.company_fulid {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.Company_BG {
+    margin-left: 0px;
+        width: 1093px;
+}
+.Submit_Email {
+    width: 180px;
+    margin-left: px;
+}
+.looking_finest {
+    padding-left: 158px;
+    width: 1280px;
+}
+.Awards_Recognitions {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 1280px;
+}
+.Company_BG {
+    margin-left: 65px;
+}
+.session {
+    width: 100%;
+}
+.session .content_ a {
+    font-size: 10px;
+}
+}
+/* ----------------------------1153px-------------------------- */
+@media(max-width: 1153px){
+.banner_head {
+    width: 100%;
+}
+.LOGO_DESIGN {
+    left: 36px;
+}
+.banner_images {
+    width: 100%;
+}
+.banner_heading {
+    font-size: 38px;
+        padding-left: 100px;
+}
+.banner_deatil {
+    font-size: 17px;
+    width: 100%;
+        padding-left: 100px;
+}
+.Designers_ul{
+     padding-left: 100px;
+}
+.Designers_ul li {
+    font-size: 19px;
+  
+}
+.Lets_Talk {
+    width: 217px;
+    height: 68px;
+}
+section.JOIN {
+    width: 1153px;
+}
+.webnHeading {
+    font-size: 44px;
+    
+}
+.webndetail {
+    font-size: 15px;
+}
+h2#numberWang {
+    font-size: 29px;
+}
+h2#numberWang2 {
+    font-size: 29px;
+}
+h2#numberWang3 {
+    font-size: 29px;
+}
+h2#numberWang4 {
+    font-size: 29px;
+}
+h2#numberWang5 {
+    font-size: 29px;
+}
+h2#numberWang6 {
+    font-size: 29px;
+}
+h2#numberWang7 {
+    font-size: 29px;
+}
+.Clients_Satisfaction {
+    font-size: 17px;
+}
+.Creative_Geeks{
+     font-size: 17px;
+}
+.Leads_Generated{
+    font-size: 17px;
+}
+.Countries {
+    padding-left: 184px;
+}
+.Creative {
+    padding-left: 168px;
+    margin-top: -200px;
+}
+.Leads {
+    padding-left: 319px;
+    margin-top: -45px;
+}
+.LOGO_DESIGN {
+    left: -117px;
+}
+.Slide_img2 {
+    margin-right: 11px;
+}
+section.Packages {
+    width: 1153px;
+}
+.basic_logo {
+    font-size: 25px;
+}
+.price_basic {
+    width: 265px;
+}
+.JUST {
+    font-size: 25px;
+}
+.Unique_Logo {
+    font-size: 16px;
+    
+}
+.discuss {
+    font-size: 15px;
+}
+.Share_your {
+    font-size: 15px;
+}
+.Recent_image {
+    width: 230px;
+    height: 230px;
+}
+.Ecommerce_btn {
+    width: 134px;
+    font-size: 20px;
+}
+.recent {
+    width: 1153px;
+}
+.Eager {
+    font-size: 23px;
+    margin-left: 0px;
+}
+.Eager_details {
+    margin-left: 0px;
+}
+section.Eager_Website {
+    width: 1153px;
+}
+.reputable {
+    font-size: 26px;
+}
+.reputable_details {
+    font-size: 15px;
+}
+.Reputable_fulid {
+    padding-left: 150px;
+    padding-right: 232px;
+}
+.ready {
+    margin-right: 0px;
+}
+.website_desigen {
+    font-size: 27px;
+}
+.website_details {
+    font-size: 13px;
+}
+.Satisfied_Clients {
+    width: 1153px;
+}
+.Satisfied {
+    font-size: 58px;
+}
+.check_out {
+    font-size: 35px;
+}
+.Check_img {
+    padding-left: 120px;
+}
+.Absolutely_heading {
+    font-size: 48px;
+}
+.Budget_friendly {
+    font-size: 40px;
+}
+.Utilize {
+    font-size: 21px;
+    padding-top: 11px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Absolutely_details {
+    font-size: 22px;
+}
+.Awards_Recognitions {
+    width: 1153px;
+}
+.Company_BG {
+    margin-left: -18px;
+}
+.looking_finest {
+    padding-left: 68px;
+    width: 1153px;
+}
+.session {
+    width: 100%;
+    padding-right: 100px;
+}
+.session .content_ a {
+    font-size: 11px;
+}
+.call_.footer_fonts {
+    width: 100%;
+}
+.container.sec1500 {
+    max-width: 100%;
+    padding-left: 104px;
+    padding-right: 0px;
+}
+}
+/* --------------------------------1024px-------------------- */
+@media(max-width: 1024px){
+.banner_images {
+    width: 100%;
+}
+.banner_head {
+    width: 100%;
+}
+section.JOIN {
+    width: 1024px;
+}
+.Leads {
+    padding-left: 255px;
+    margin-top: -45px;
+}
+.modal-content {
+    background: #0B2C4A;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline: 20px;
+    width: 80%;
+    margin-left: 167px;
+}
+.modal-content.modal_class {
+    height: 730px;
+}
+.Black_firday {
+    width: 361px;
+    margin-left: -212px;
+    margin-top: -67px;
+    margin-bottom: -68px;
+}
+.fill_out {
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Raleway';
+    font-weight: 900;
+    padding-bottom: -21px;
+}
+.Creative {
+    padding-left: 120px;
+    margin-top: -200px;
+}
+.Countries {
+    padding-left: 136px;
+}
+.webnHeading {
+    font-size: 34px;
+}
+.basic_box {
+    max-width: 29%;
+}
+.price_basic {
+    width: 222px;
+    height: 60px;
+}
+.Unique_Logo {
+    font-size: 15px;
+}
+.box_join {
+    width: 120px;
+    height: 120px;
+}
+.box_join2 {
+    width: 120px;
+    height: 120px;
+}
+.box_join3 {
+    width: 120px;
+    height: 120px;
+}
+section.Packages {
+    width: 1025px;
+}
+.packages_fulid {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Budget_friendly {
+    font-size: 33px;
+}
+.Utilize {
+    font-size: 23px;
+}
+.price_basic {
+    width: 230px;
+    height: 60px;
+}
+.reputable_details {
+    font-size: 12px;
+}
+.price_basic h2 {
+    font-size: 40px;
+}
+.Reputable_fulid {
+    padding-left: 120px;
+padding-right: 120px;
+}
+.reputable_details {
+width: 100%;
+}
+.recent {
+    width: 1024px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.Ecommerce_btn {
+    width: 130px;
+    font-size: 20px;
+}
+.Recent_image {
+    width: 200px;
+    height: 200px;
+}
+section.Eager_Website {
+    width: 1024px;
+    padding-inline: 50px;
+}
+
+.Eager_Fulid {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Eager {
+  font-size: 20px;
+    margin-left: 0px;
+}
+
+.Eager_details {
+    margin-left: 0px;
+    font-size: 16px;
+}
+
+.Eager_img {
+    /* width: 115%; */
+    margin-left: 0px;
+}
+/*.LOGO_DESIGN {*/
+/*    left: 251px;*/
+/*}*/
+.Computer_col8 {
+    padding-left: 0px;
+}
+.ready {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.website_desigen {
+    font-size: 24px;
+}
+.website_details {
+    font-size: 14px;
+}
+.Satisfied_Clients {
+    width: 1024px;
+}
+.Check_img {
+    padding-left: 60px;
+}
+.Absolutely {
+    padding-top: 70px;
+}
+.Top_img {
+    padding-left: 10px;
+    padding-right: 0px;
+    height: 120px;
+}
+
+.envelope {
+    padding-left: 46px;
+}
+.Company_BG {
+   margin-left: 0px;
+    width: 100%;
+}
+.Company {
+    font-size: 26px;
+}
+
+.Company_packag {
+    font-size: 34px;
+}
+.call_toll {
+    font-size: 18px;
+    padding-top: 82px;
+    margin-left: -20px;
+}
+.Request{
+    margin-top: 70px;
+    margin-left: 40px;
+    font-size: 22px;
+}
+.need {
+    padding-top: 80px;
+    font-size: 18px;
+}
+.Awards_Recognitions {
+    width: 1024px;
+}
+.looking_finest {
+    padding-left: 60px;
+    width: 1024px;
+}
+.Looking {
+    margin-left: 0px;
+}
+.Looking h1 {
+    font-size: 20px;
+}	
+.Email {
+    font-size: 20px; 
+   width: 420px;
+}
+
+.Submit_Email {
+    width: 150px;
+}
+
+.envelope {
+    padding-left: 31px;
+}
+.session {
+    width: 100%;
+    padding-right: 10px;
+}
+}
+/* -------------------------998px---------- */
+@media(max-width: 998px){
+.banner_images {
+  width: 100%;
+}
+.navbar .navbar_links {
+    font-size: 13px;
+    padding-right: 10px;
+}
+
+.logo {
+    width: 300px;
+    height: 151px;
+}
+.Designers_ul {
+    padding-left: 40px;
+}
+
+.banner_head {
+    width: 100%;
+}
+.banner_heading {
+    font-size: 38px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.banner_deatil {
+    padding-left: 40px;
+}
+.Creative {
+    padding-left: 100px;
+}
+.Leads {
+    padding-left: 219px;
+    margin-top: -49px;
+}
+.discount {
+    width: 299px;
+    margin-left: 230px;
+}
+
+.Requirments_form input {
+    width: 355px;
+}
+section.JOIN {
+    width: 998px;
+}
+.Join_col5 {
+    padding-left: 0px;
+}
+.Countries {
+    padding-left: 135px;
+}
+.Slide_img2 {
+    margin-right: 36px;
+    margin-top: -38px;
+}
+section.Packages {
+    width: 998px;
+}
+.Share_your {
+    font-size: 13px;
+}
+.discuss {
+    font-size: 13px;
+}
+
+.Reputable_fulid {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.basic_box {
+    max-width: 29%;
+}
+.recent {
+    width: 998px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+section.Eager_Website {
+    width: 998px;
+    padding-inline: 50px;
+}
+.Satisfied_Clients {
+    width: 998px;
+}
+
+.satisfied_fulid {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.Satisfied {
+    font-size: 40px;
+}
+.Check_img {
+    padding-left: 71px;
+    height: 450px;
+}
+.Absolutely {
+    padding-top: 50px;
+}
+.Awards_Recognitions {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 998px;
+}
+.Top_img {
+    height: 110px;
+}
+.Company_BG {
+    margin-left: 0px;
+    padding-inline: 50px;
+    width: 950px;
+}
+.company_fulid {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.phone {
+    font-size: 47px;
+    color: #000;
+    padding-top: 60px;
+    padding-left: 10px;
+}
+.Request {
+    margin-left: 20px;
+}
+.Email {
+    width: 386px;
+font-size: 21px;
+}
+.looking_finest {
+    padding-left: 60px;
+    width: 998px;
+}
+.session .content_ a {
+    font-size: 13px;
+}
+.session {
+    width: 100%;
+    padding-right: 146px;
+}
+}
+/* ----------------------992px-------------------- */
+@media(max-width: 992px){
+.banner_images {
+    width: 100%;
+}
+section.JOIN {
+    width: 992px;
+}
+.LOGO_DESIGN {
+    left: -145px;
+    /* margin-top: 177px; */
+}
+section.Packages {
+    width: 992px;
+}
+.Utilize {
+    font-size: 18px;
+}
+.price_basic {
+    width: 204px;
+    height: 60px;
+}
+.reputable_details {
+    font-size: 12px;
+}
+.recent {
+    width: 992px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+section.Eager_Website {
+    width: 992px;
+    padding-inline: 50px;
+}
+.Eager {
+    font-size: 20px;
+    margin-left: 0px;
+}
+.Eager_img {
+    width: 100%;
+    /* margin-left: 102px; */
+    padding-top: 83px;
+}
+.Eager_details {
+    margin-left: 0px;
+    font-size: 12px;
+}
+.Satisfied_Clients {
+    width: 992px;
+}
+.Absolutely_heading {
+    font-size: 38px;
+}
+.Absolutely_details {
+    font-size: 16px;
+}
+.Awards_Recognitions {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 992px;
+}
+ .Attractive_design {
+    text-align: start;
+
+}
+.looking_finest {
+    padding-left: 60px;
+    width: 992px;
+}
+.Slide_img2 {
+    margin-right: 0px;
+    margin-top: -143px;
+}
+.Top_Web {
+    font-family: Raleway;
+    font-size: 9px;
+    font-weight: 600;
+    text-align: center;
+}
+.session {
+    width: 100%;
+    padding-right: 58px;
+}
+}
+/* ----------------------991px---------------------- */
+@media(max-width: 991px){
+.fill_name {
+    font-size: 22px;
+    height: 48px;
+}
+.Eager_img {
+    width: 130%;
+    margin-left: 15px;
+}
+.fill_out {
+    font-size: 22px;
+}
+.Black_firday {
+    width: 318px;
+    margin-left: -143px;
+}
+.modal-content {
+    background: #0B2C4A;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline: 20px;
+    width: 189%;
+    margin-left: -123px;
+    height: 644px;
+}
+}
+/* -------------------------------media880px--------------------- */
+@media(max-width: 880px){
+.banner_head {
+    width: 100%;
+}
+.fill_out {
+    font-size: 22px;
+    padding-bottom: 0px;
+}
+.modal-content.modal_class {
+    height: 645px;
+}
+.banner_images {
+    width: 100%;
+}
+.logo {
+    width: 270px;
+    height: 140px;
+}
+.navbar .navbar_links {
+    font-size: 11px;
+    padding-right: 10px;
+}
+.banner_heading {
+    font-size: 38px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.banner_deatil {
+    padding-left: 40px;
+}
+.Designers_ul {
+    padding-left: 40px;
+}
+
+.Lets_Talk {
+    width: 210px;
+    font-size: 30px;
+}
+.LOGO_DESIGN {
+    left: -141px;
+    margin-top: 177px;
+}
+.back_img {
+    padding-left: 0px;
+    padding-bottom: 213px;
+}
+.Submit {
+    width: 349px;
+    margin-left: 174px;
+}
+.Requirments_form input {
+    width: 349px;
+    margin-left: 223px;
+}
+
+section.JOIN {
+    width: 880px;
+    padding-left: 80px;
+}
+.webndetail {
+    font-size: 11px;
+}
+.cot_padding {
+    padding-left: 15px;
+}
+.Creative {
+    padding-left: 105px;
+    margin-top: -200px;
+}
+.Countries {
+    padding-left: 105px;
+}
+.Leads {
+    padding-left: 230px;
+    margin-top: -48px;
+}
+.Slide_img2 {
+    margin-right: 9px;
+    margin-top: 3px;
+}
+
+.Attractive_design {
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.Side_img {
+    padding-top: 100px;
+    margin-left: -73px;
+}
+.container.sec1500 {
+    max-width: 100%;
+    padding-right: 0px;
+    padding-left: 50px;
+}
+section.Packages {
+    width: 880px;
+}
+.Company_BG {
+    margin-left: 0px;
+    padding-inline: 50px;
+    width: 842px;
+}
+.Company {
+    font-size: 25px;
+}
+.Company_packag {
+    font-size: 24px;
+}
+.call_toll {
+    font-size: 18px;
+    padding-top: 43px;
+    margin-left: -20px;
+}
+.phone {
+    font-size: 47px;
+    color: #000;
+    padding-top: 37px;
+    padding-left: 10px;
+}
+.Request {
+    margin-top: 44px;
+    margin-left: 40px;
+    font-size: 22px;
+}
+.need {
+    padding-top: 59px;
+    font-size: 18px;
+}
+.reputable {
+    font-size: 20px;
+}
+.reputable_details {
+    font-size: 11px;
+}
+.Utilize {
+    font-size: 18px;
+    padding-top: 11px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.price_basic {
+    width: 170px;
+    height: 50px;
+}
+.price_basic h2 {    
+font-size: 36px;
+}
+.Share_your {
+    font-size: 11px;
+}
+.discuss {
+    font-size: 11px;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: 26px;
+}
+.Recent_Work {
+    padding-top: 80px;
+    font-size: 45px;
+}
+.recent {
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 880px;
+}
+.looking_finest {
+    padding-left: 60px;
+    width: 880px;
+}
+.Ecommerce_btn {
+    width: 123px;
+    font-size: 17px;
+}
+.Recent_image {
+    width: 190px;
+    height: 190px;
+}
+section.Eager_Website {
+    width: 880px;
+    padding-inline: 50px;
+}
+
+.Eager_Fulid {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Eager {
+    font-size: 20px;
+    margin-left: 0px;
+    padding-top: 70px;
+}
+.Eager_details {
+    font-size: 16px;
+}
+.Eager_img {
+    width: 100%;
+    margin-left: 15px;
+}
+.Absolutely_heading {
+    font-size: 26px;
+}
+.ready {
+    margin-right: 0px;
+    margin-left: 35px;
+}
+.satisfied_fulid {
+    padding-right: 200px;
+    padding-left: 300px;
+    padding-bottom: 50px;
+}
+.Satisfied_Clients {
+    width: 880px;
+}
+.check_out {
+    font-size: 26px;
+}
+.Satisfied {
+    font-size: 31px;
+}
+.Check_img {
+    padding-top: 50px;
+    padding-left: 34px;
+    padding-bottom: 50px;
+    height: 424px;
+}
+.satisfied_fulid {
+    padding-right: 130px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+}
+.Awards_Recognitions {
+    padding-left: 49px;
+    padding-right: 13px;
+    width: 880px;
+}
+.Awards_fulid {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.session {
+    width: 100%;
+}
+.session .content_ a {
+    font-size: 15px;
+}
+}
+/* ----------------------------768px--------------------------------- */
+@media(max-width: 768px){
+.banner_images {
+    width: 100%;
+}
+section.JOIN {
+    width: 768px;
+    padding-left: 75px;
+}
+.navbar .navbar_links {
+    font-size: 9px;
+    padding-right: 10px;
+}
+.webnHeading {
+    font-size: 28px;
+}
+.blkorn {
+    color: black;
+    font-weight: 800;
+    font-size: 27px;
+}
+.blkorn span {
+    color: #F29E29;
+    font-size: 27px;
+}
+.webndetail {
+    font-size: 10px;
+}
+.LOGO_DESIGN {
+    left: -141px;
+    margin-top: 94px;
+}
+.Slide_img2 {
+    margin-right: 9px;
+    margin-top: 15px;
+}
+.back_img {
+    padding-left: 0px;
+    padding-bottom: 103px;
+}
+.discount h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 33px;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+h2#numberWang {
+    font-size: 16px;
+}
+h2#numberWang2 {
+    font-size: 16px;
+}
+h2#numberWang3 {
+    font-size: 16px;
+}
+h2#numberWang4 {
+    font-size: 16px;
+}
+h2#numberWang5 {
+    font-size: 16px;
+}
+h2#numberWang6 {
+    font-size: 16px;
+}
+h2#numberWang6 {
+    font-size: 16px;
+}
+.Leads_Generated {
+    font-size: 11px;
+}
+.Creative_Geeks {
+    font-size: 11px;
+}
+.Clients_Satisfaction {
+    font-size: 11px;
+}
+.Attractive_design {
+    font-size: 14px;
+}
+.Creative {
+    padding-left: 82px;
+    margin-top: -200px;
+}
+.Leads {
+    padding-left: 187px;
+    margin-top: -48px;
+}
+.Eager {
+    font-size: 30px;
+    margin-left: -134px;
+}
+section.Packages {
+    width: 768px;
+}
+.Budget_friendly {
+    font-size: 27px;
+}
+.Satisfied_Clients {
+    width: 768px;
+}
+.basic_box {
+    max-width: 28%;
+}
+.price_basic h2 {
+    font-size: 33px;
+}
+.price_basic {
+    width: 144px;
+    height: 47px;
+}
+.order_now {
+    border: transparent;
+    width: 140px;
+    height: 61px;
+}
+.Unique_Logo {
+    font-size: 12px;
+}
+.reputable_details {
+    font-size: 10px;
+}
+.reputable {
+    font-size: 20px;
+}
+section.Reputable {
+    width: 768px;
+    padding-left: 100px;
+}
+.recent {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 768px;
+}
+.Ecommerce_btn {
+    width: 82px;
+    font-size: 14px;
+    height: 40px;
+}
+.Recent_image {
+    width: 134px;
+    height: 142px;
+}
+.mobile_size {
+    height: 175px;
+}
+section.Eager_Website {
+    width: 768px;
+    padding-inline: 50px;
+}
+.Eager {
+    font-size: 17px;
+    margin-left: 0px;
+}
+.Eager_details {
+    font-size: 13px;
+}
+.Eager_img {
+    width: 100%;
+    margin-left: 0px;
+}
+.ready {
+    margin-right: -47px;
+    margin-left: -48px;
+}
+.satisfied_fulid {
+    padding-right: 144px;
+    padding-left: 41px;
+    padding-bottom: 50px;
+}
+.Check_img {
+    padding-top: 50px;
+    padding-left: 34px;
+    padding-bottom: 50px;
+    height: 424px;
+}
+.Check_bg {
+    background: #F29E29;
+    width: 100%;
+}
+.Jack_Nitzsche {
+    font-size: 20px;
+}
+section.Reputable {
+    width: 768px;
+    padding-left: 100px;
+}
+
+.Absolutely_details {
+    font-size: 19px;
+    width: 100%;
+}
+.Absolutely_heading {
+    font-size: 23px;
+}
+.Awards {
+    font-family: Raleway;
+    font-size: 39px;
+    font-weight: 900;
+    text-align: center;
+}
+.Top_Web {
+    font-family: Raleway;
+    font-size: 6px;
+    font-weight: 600;
+    text-align: center;
+}
+.top_details {
+    font-family: Raleway;
+    font-size: 5px;
+    font-weight: 500;
+    text-align: center;
+}
+.Company_BG {
+    margin-left: -28px;
+    width: 768px;
+}
+.looking_finest {
+    padding-left: 60px;
+    width: 769px;
+}
+.envelope {
+    padding-left: 5px;
+}
+
+img.web_imag {
+    width: 211%;
+    margin-left: -115px;
+}
+.session {
+    width: 100%;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: 2px;
+    margin-top: -100px;
+}
+.Email {
+    width: 350px;
+    font-size: 13px;
+}
+.modal-content.modal_class {
+    margin-left: -36px;
+    height: 598px;
+    width: 139%;
+    margin-right: -21px;
+}
+.modal-content {
+    background: #0B2C4A;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline: 20px;
+    width: 140%;
+    margin-left: -123px;
+    height: 522px;
+}
+.fill_name {
+    font-size: 22px;
+    height: 36px;
+}
+.fill_message {
+    width: 100%;
+    font-size: 22px;
+    margin-top: 20px;
+    height: 144px;
+}
+.Black_firday {
+    width: 295px;
+}
+.Top_img {
+    height: 82px;
+    padding-left: 0px;
+}
+.Awards_Recognitions {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 768px;
+}
+.send_mess {
+    font-size: 28px;
+}
+.banner_heading {
+    font-size: 33px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.banner_deatil {
+    font-size: 15px;
+    width: 89%;
+    padding-left: 38px;
+}
+.Designers_ul li {
+    font-size: 15px;
+}
+.box_join img {
+    width: 57px;
+}
+.box_join {
+    width: 100px;
+    height: 100px;
+}
+.box_join2 img {
+    width: 57px;
+}
+.box_join2 {
+    width: 100px;
+    height: 100px;
+}
+.box_join3 img {
+    width: 57px;
+}
+.box_join3 {
+    width: 100px;
+    height: 100px;
+}
+}
+/* --------------------------767px------------------------- */
+@media(max-width: 767px){
+
+.navbar {
+    float: right;
+    margin-top: -156px;
+}
+.Jack_Nitzsche {
+        font-size: 17px;
+} 
+.Absolutely_heading {
+        font-size: 25px;
+}
+.check_out {
+    font-size: 34px;
+}
+.modal-content {
+    background: #0B2C4A;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-inline: 20px;
+    width: 234%;
+    margin-left: -300px;
+    height: 839px;
+}
+.Eager_img {
+    width: 87%;
+    margin-left: 0px;
+}
+.Submit_Email {
+    width: 135px;
+    font-size: 20px;
+}
+.looking_finest {
+    padding-left: 19px;
+    width: 768px;
+}
+.text h3 {
+    font-size: 17px;
+}
+.session .content_ a {
+    font-size: 12px;
+}
+.session {
+    width: 100%;
+    padding-right: 0px;
+}
+}
+/* --------------------680px-------------------------------------- */
+@media(max-width: 680px){
+.banner_images {
+    width: 100%;
+}
+.Lets_Talk {
+    width: 149px;
+    font-size: 30px;
+}
+.banner_deatil {
+    font-size: 15px;
+    width: 86%;
+    padding-left: 27px;
+}
+.banner_heading {
+    font-size: 27px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.blkorn span {
+    color: #F29E29;
+    font-size: 22px;
+}
+.blkorn{
+    color: #F29E29;
+    font-size: 22px;
+}
+.Creative {
+    padding-left: 60px;
+    margin-top: -174px;
+}
+.Leads {
+    padding-left: 142px;
+    margin-top: -20px;
+}
+.Countries {
+    padding-left: 89px;
+}
+section.JOIN {
+    width: 680px;
+    padding-left: 75px;
+}
+section.Packages {
+    width: 698px;
+}
+.basic_box {
+    max-width: 44%;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: 66px;
+    margin-top: -14px;
+    width: 11%;
+}
+.price_basic {
+    width: 221px;
+    height: 47px;
+}
+.Ecommerce_btn {
+    width: 98px;
+    font-size: 13px;
+    height: 35px;
+}
+section.Reputable {
+    width: 680px;
+    padding-left: 100px;
+}
+img.web_imag {
+    width: 273%;
+    margin-left: -115px;
+}
+.reputable {
+    font-size: 16px;
+}
+.reputable_details {
+    font-size: 11px;
+}
+.recent {
+    padding-left: 28px;
+    padding-right: 0px;
+    width: 680px;
+}
+section.Eager_Website {
+    width: 680px;
+    padding-inline: 50px;
+}
+.Eager {
+    font-size: 15px;
+    margin-left: 0px;
+}
+.Eager_details {
+    font-size: 10px;
+}
+.Eager_img {
+    width: 100%;
+    margin-left: 0px;
+}
+.Awards_Recognitions {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 1438px;
+}
+.Satisfied_Clients {
+    width: 680px;
+}
+.Company_BG {
+    width: 680px;
+    margin-left: 0px;
+}
+.Awards_Recognitions {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 680px;
+}
+.looking_finest {
+    padding-left: 19px;
+    width: 680px;
+}
+.session {
+    width: 100%;
+}
+}
+/* ---------------------------------575px--------------------------------- */
+@media(max-width: 575px){
+body {
+    overflow-x: hidden;
+    zoom: 32%;
+}
+span.successfully-saved {
+    margin-left: 321px;
+    font-size: 16px;
+}
+.Black_firday {
+   display:none;
+}
+.col-md-4.col-sm-4.col-xs-4 {
+    width: 33%;
+}
+.modal-content.modal_class {
+    width: 62%;
+    height: 1068px;
+    margin-left: 257px;
+}
+.Black {
+    display: initial;
+    margin-top: -548px;
+    width: 366%;
+    margin-left: -51px;
+}
+.modal-content {
+    width: 74%;
+    margin-left: 257px;
+}
+.order_mess {
+    font-size: 31px;
+}
+.banner_images {
+    width: 100%;
+}
+.fill_message {
+    font-size: 33px;
+    height: 288px;
+    opacity: 0.7;
+    width: 94%;
+    margin-left: 71px;
+}
+button.close {
+    margin-top: 85px;
+}
+.fill_name {
+    font-size: 31px;
+    height: 70px;
+    width: 94%;
+    margin-left: 71px;
+}
+.fill_out {
+    font-size: 52px;
+    margin-left: 71px;
+    margin-top: 10px;
+}
+.send_mess {
+    font-size: 35px;
+    height: 94px;
+    border-radius: 12px;
+    width: 56%;
+    margin-left: 71px;
+}
+.col-md-6.col-sm-6.col-xs-6.space_nav {
+    width: 14%;
+}
+.navbar .navbar_links {
+    font-size: 23px;
+    color: #fff;
+    padding-right: 10px;
+}
+.col-md-6.col-sm-6.col-xs-6 {
+    width: 100%;
+}
+.back_img {
+    background: none;
+    text-align: center;
+    margin-left: 0px;
+}
+.discount {
+    height: 86px;
+    background: #F29E29;
+    border-radius: 12px;
+    margin-top: 60px;
+    margin-left: 504px;
+    margin-right: 500px;
+    width: 40%;
+}
+.Get_Started {
+    color: #000;
+    font-size: 29px;
+    padding-left: 0px;
+}
+.Requirments {
+    font-weight: 900;
+    text-align: center;
+     padding-left: 0px;
+       font-size: 62px;
+}
+
+.Requirments_form input {
+    width: 80%;
+    height: 87px;
+    font-size: 33px;
+     margin-left: 0px; 
+}
+.Submit {
+    width: 41%;
+    height: 83px;
+    font-size: 53px;
+    margin-left: 45px;
+}
+.banner_heading {
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 156px;
+    font-size: 63px;
+}
+.banner_deatil {
+    width: 100%;
+    text-align: justify;
+    padding-right: 152px;
+    font-size: 51px;
+}
+.Designers_ul {
+    color: #fff;
+    padding-left: 156px;
+    padding-top: 50px;
+    text-align: start;
+}
+.Designers_ul li {
+    width: 100%;
+    font-size: 51px;
+}
+.col-md-3.col-sm-3.col-xs-3 {
+    width: 25%;
+}
+/*--------------------------section2--------------------------*/
+section.JOIN {
+    width: 100%;
+}
+.Side_img {
+    padding-top: 100px;
+    width: 166px;
+}
+.webnHeading {
+    font-size: 64px;
+}
+.blkorn {
+    font-size: 54px;
+    margin-left: -155px;
+    text-align: center;
+}
+.blkorn span {
+    font-size: 54px;
+     text-align: center;
+}
+.webndetail {
+    font-size: 39px;
+    margin-left: -155px;
+}
+.box_join {
+    width: 287px;
+    height: 285px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.box_join img {
+    width: 179px;
+}
+.box_join2{
+   width: 287px;
+    height: 285px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.box_join2 img {
+    width: 179px;
+}
+.box_join3{
+   width: 287px;
+    height: 285px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.box_join3 img {
+    width: 179px;
+}
+.col-md-6.col-sm-6.col-xs-6.Join_col6 {
+    width: 100%;
+    padding-left: 107px;
+    padding-right: 100px;
+}
+.Attractive_design {
+    font-size: 38px;
+    color: #000000;
+    margin-left: -91px;
+}
+.box_circle {
+    margin-left: 46px;
+    text-align: center;
+}
+.Join_col5 {
+    padding-left: 370px;
+}
+h2#numberWang {
+    font-size: 60px;
+ 
+}
+.Clients_Satisfaction {
+    font-size: 32px;
+}
+h2#numberWang2 {
+    font-size: 60px;
+}
+.Creative_Geeks {
+    font-size: 32px;
+}
+h2#numberWang3 {
+    font-size: 60px;
+}
+.Leads_Generated {
+   
+    font-size: 32px;
+
+}
+h2#numberWang4{
+      font-size: 60px;
+}
+h2#numberWang5{
+      font-size: 60px;
+}
+h2#numberWang6{
+      font-size: 60px;
+}
+h2#numberWang7{
+      font-size: 60px;
+}
+.Slide_img2 {
+    margin-right: 20px;
+    width: 175px;
+}
+.LOGO_DESIGN {
+    font-family: 'Raleway';
+    font-size: 121px;
+    left: 249px;
+    top: -835px;
+}
+/*-----------------------------------section3------------------------*/
+section.Packages {
+    width: 89%;
+    padding-left: 0px;
+}
+.Slide_img2.Slide_img3{
+    margin-right: -421px;
+    width: 175px;
+}
+.our_Packages {
+    font-size: 65px;
+}
+.Budget_friendly {
+    font-size: 54px;
+}
+.Utilize {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 36px;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: -472px;
+}
+.basic_box {
+    max-width: 101%;
+    margin-left: 328px;
+    margin-right: 293px;
+    height: 1236px;
+}
+.basic_logo {
+    font-size: 42px;
+}
+span.package-price-sell {
+    font-size: 69px;
+}
+.order_now {
+    width: 44%;
+    height: 96px;
+    font-size: 39px;
+    margin-top: 54px;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: -97px;
+}
+.price_basic h2 {
+    font-size: 54px;
+
+}
+.price_basic {
+    width: 90%;
+    height: 100px;
+    margin-left: 50px;
+}
+.Unique_Logo {
+    font-size: 35px;
+    height: 584px;
+}
+.discuss {
+    font-size: 34px;
+}
+.Share_your {
+    font-size: 31px;
+}
+.logo_web {
+    font-size: 74px;
+    margin-top: -2510px;
+}
+/*--------------------------section4--------------------*/
+.Reputable_col {
+    /* padding-inline: 352px; */
+    margin-left: 82px;
+}
+img.web_imag {
+    width: 250%;
+}
+.web_imag {
+    width: 957px;
+    height: 797px;
+}
+section.Reputable {
+    width: 100%;
+}
+.reputable {
+    font-family: Raleway;
+    font-size: 91px;
+    font-weight: 900;
+    /* text-align: center; */
+    width: 90%;
+    margin-left: 57px;
+}
+.reputable_details {
+    font-family: Raleway;
+    font-size: 43px;
+    font-weight: 600;
+    /* text-align: center; */
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 90%;
+}
+/*---------------------section5----------------------------*/
+.recent {
+    padding-left: 150px;
+    padding-right: 80px;
+    width: 100%;
+}
+div#tab_btn {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.Ecommerce_btn {
+    width: 328px;
+    height: 75px;
+    font-size: 37px;
+    margin: 14px;
+}
+.Recent_Work {
+    padding-top: 100px;
+    font-family: Raleway;
+    font-size: 74px;
+    font-weight: 900;
+    text-align: center;
+}
+.Recent_image {
+    width: 422px;
+    height: 368px;
+}
+.col-md-3.col-sm-3.col-xs-3 {
+    width: 43%;
+    height: 450px;
+    padding-left: 200px;
+}
+/*---------------------------------section6-----------------------*/
+section.Eager_Website {
+    width: 1530px;
+}
+.Eager_details {
+    font-size: 37px;
+    width: 502%;
+    text-align: center;
+    padding-left: 137px;
+}
+.col-md-6.col-sm-6.col-xs-6.eager_col8 {
+    width: 23%;
+}
+.Eager {
+    font-size: 69px;
+    margin-left: 13px;
+    width: 1300px;
+    text-align: center;
+}
+.Eager_img {
+    width: 83%;
+    margin-left: 99px;
+    /* text-align: end; */
+    height: 783px;
+}
+
+/*------------------------------section7-----------------------*/
+.col-md-4.col-sm-4.col-xs-4.Computer_col4 {
+    padding-left: 400px;
+}
+.Computer {
+    width: 774px;
+    /* height: 380px; */
+}
+.col-md-8.col-sm-8.col-xs-.\38 .Computer_col8 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.website_desigen {
+    font-size: 51px;
+    padding-top: 2px;
+    padding-left: 35px;
+    text-align: center;
+}
+.website_details {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-left: 35px;
+    text-align: center;
+}
+.contact {
+    font-size: 37px;
+    padding-left: 35px;
+    text-align: center;
+}
+img.Computer {
+    width: 728px;
+}
+.contact_oder {
+    width: 264px;
+    height: 102px;
+    margin-left: 74px;
+    margin-top: 20px;
+    font-size: 42px;
+}
+.ready {
+    margin-right: 3px;
+    margin-left: 0px;
+}
+/*-----------------------------section8----------------------*/
+.Satisfied_Clients {
+    width: 1551px;
+}
+.col-md-4.col-sm-4.col-xs-4.Satisfied_col {
+    width: 57%;
+    padding-left: 290px;
+}
+.Check_bg {
+    margin-left: 188px;
+}
+.Check_img {
+    padding-top: 65px;
+    padding-left: 246px;
+    padding-bottom: 65px;
+    height: 780px;
+}
+.col-md-6.col-sm-6.col-xs-6.Absolutely {
+    margin-left: 300px;
+    padding-right: 300px;
+}
+.Absolutely_heading {
+    font-size: 48px;
+}
+.Absolutely_details {
+    font-size: 32px;
+    width: 112%;
+}
+.Investor {
+    font-size: 32px;
+}
+.Jack_Nitzsche {
+    font-size: 38px;
+}
+/*---------------------------section9-----------------------*/
+.Awards_Recognitions {
+    padding-left: 400px;
+    padding-right: 100px;
+    width: 83%;
+}
+.Top_img {
+    padding-left: 64px;
+    padding-right: 44px;
+    padding-bottom: 10px;
+    height: 249px;
+    width: 421px;
+}
+.Awards {
+    font-size: 60px;
+    text-align: center;
+}
+.Top_Web {
+
+    font-size: 33px;
+ 
+    text-align: center;
+}
+.top_details {
+   
+    font-size: 23px;
+    text-align: center;
+}
+/*----------------------section10-----------------------*/
+.Company_BG {
+    margin-left: 128px;
+    margin-right: 100px;
+    width: 86%;
+}
+.call_toll {
+    font-size: 35px;
+    margin-left: -80px;
+}
+.phone {
+    font-size: 71px;
+}
+.Request {
+    width: 302px;
+    height: 105px;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.need {
+    font-size: 34px;
+    padding-top: 70px;
+    padding-right: 31px;
+}
+/*------------------section11-----------------------*/
+.Looking h1 {
+    font-size: 49px;
+    font-weight: 900;
+    font-family: Raleway;
+    color: #F29E29;
+    text-align: center;
+}
+.col-md-6.col-sm-6.col-xs-6.Email_type {
+    width: 60%;
+    padding-left: 435px;
+}
+.looking_finest {
+    padding-left: -1px;
+}
+
+.Looking {
+    margin-left: 70px;
+}
+.Email {
+    width: 822px;
+    height: 113px;
+    background: #F29E29;
+    border-radius: 50px;
+    border: transparent;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 900;
+    padding-left: 65px;
+    margin-top: 5px;
+    margin-left: -246px;
+}
+.Submit_Email {
+    width: 243px;
+    height: 111px;
+    background: #000000;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 31px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-left: 29px;
+}
+.envelope {
+    /* padding-left: 63px; */
+    margin-left: 128px;
+    display: none;
+}
+.session {
+    width: 100%;
+}
+.text h3 {
+    font-size: 48px;
+}
+.col-sm-3.footer {
+    width: 32%;
+}
+.session .content_ a {
+    text-decoration: none;
+    color: #002E45;
+    font-size: 30px;
+    font-weight: 700;
+    position: relative;
+}
+}
+/*---------------------------525px---------------------------------*/
+@media(max-width: 525px){
+.banner_images {
+    width: 100%;
+}
+.session {
+    width: 100%;
+}
+}
+/*---------------------------475px--------------------------*/
+@media(max-width: 475px){
+body {
+    overflow-x: hidden;
+    zoom: 26%;
+}
+.Black {
+    display: list-item;
+    margin-top: -592px;
+    width: 342%;
+    margin-left: -58px;
+    height: 610px;
+}
+.banner_images {
+    width: 107.5%;
+    overflow-x: hidden;
+    margin-top: -28px;
+}
+.navbar .navbar_links {
+    font-size: 67px;
+    margin-right: 162px;
+}
+.col-md-6.col-sm-6.col-xs-6.space_nav {
+    width: 16%;
+    overflow-x: hidden;
+}
+.logo {
+    width: 794px;
+    height: 269px;
+    margin-left: 200px;
+    margin-left: 368px;
+    padding-top: 40px;
+    height: 400px;
+}
+.col-md-3.col-sm-3.col-xs-3 {
+    width: 100%;
+    height: 450px;
+    padding-left: 200px;
+}
+.banner_heading {
+    text-align: start;
+    font-size: 86px;
+    margin-top: -110px;
+}
+.banner_deatil {
+    width: 100%;
+    text-align: justify;
+    font-size: 56px;
+}
+.Designers_ul {
+    color: #fff;
+    padding-left: 158px;
+    padding-top: 50px;
+    text-align: justify;
+}
+.Designers_ul li {
+    font-size: 59px;
+}
+.discount {
+    height: 116px;
+    margin-top: 60px;
+    margin-left: 504px;
+    margin-right: 500px;
+    width: 48%;
+}
+.discount h1 {
+    font-size: 67px;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+.Get_Started {
+    color: #000;
+    font-size: 49px;
+    padding-left: 0px;
+}
+.Requirments {
+    font-weight: 900;
+    text-align: center;
+    padding-left: 0px;
+    font-size: 74px;
+}
+.Requirments_form input {
+    width: 89%;
+    height: 90px;
+    font-size: 45px;
+    margin-left: 0px;
+}
+.Submit {
+    width: 44%;
+    height: 116px;
+    font-size: 59px;
+    margin-left: -13px;
+}
+.webnHeading {
+    font-size: 91px;
+    padding-top: 30px;
+}
+.Slide_img2 {
+    margin-right: -279px;
+    width: 175px;
+}
+.blkorn {
+    font-size: 86px;
+}
+.webndetail {
+    font-size: 57px;
+    margin-left: -213px;
+    margin-right: -257px;
+}
+.blkorn span {
+  font-size: 67px;
+    text-align: center;
+}
+h2#numberWang  {
+    font-size: 98px;
+}
+h2#numberWang2 {
+    font-size: 98px;
+}
+h2#numberWang3 {
+    font-size: 98px;
+}
+h2#numberWang4 {
+    font-size: 98px;
+}
+h2#numberWang5 {
+    font-size: 98px;
+}
+h2#numberWang6 {
+    font-size: 98px;
+}
+h2#numberWang7 {
+    font-size: 98px;
+}
+.Attractive_design {
+    font-size: 53px;
+    color: #000000;
+    padding: 0px;
+    padding-left: 129px;
+}
+.container.sec1500 {
+    max-width: 100%;
+    padding-right: 0px;
+    padding-left: 150px;
+}
+.LOGO_DESIGN {
+    font-family: 'Raleway';
+    font-size: 127px;
+    left: 581px;
+    top: -835px;
+}
+.Side_img {
+    padding-top: 100px;
+    width: 166px;
+    margin-left: -186px;
+}
+.Clients {
+    padding-top: 200px;
+    margin-left: -160px;
+}
+.Clients_Satisfaction {
+    font-size: 45px;
+    line-height: 54px;
+}
+.Creative {
+
+    padding-left: 223px;
+    margin-top: -225px;
+}
+.Creative_Geeks {
+    font-size: 45px;
+    line-height: 51px;
+}
+.Leads {   
+    padding-left: 545px;
+    margin-top: -45px;
+}
+.Leads_Generated {
+    font-size: 45px;
+    line-height: 47px;
+}
+.our_Packages {
+    font-size: 89px;
+}
+.Budget_friendly {
+    font-size: 70px;
+}
+.Utilize {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 52px;
+    text-align: justify;
+}
+.fill_out {
+    font-size: 76px;
+    margin-left: 0px;
+    padding-top: 120px;
+}
+button.close {
+    padding-top: 156px;
+}
+.fill_name {
+    font-size: 62px;
+    height: 132px;
+    margin-left: 0px;
+    width: 98%;
+    opacity: 0.4;
+}
+.fill_message {
+    font-size: 62px;
+    height: 398px;
+    opacity: 0.7;
+    margin-left: 0px;
+    width: 98%;
+    opacity: 0.4;
+}
+.Black_firday {
+    display: none;
+}
+
+.send_mess {
+    font-size: 56px;
+    width: 47%;
+    border-radius: 12px;
+}
+.modal-content.modal_class {
+    height: 1481px;
+    margin-left: 95px;
+    width: 88%;
+}
+section.JOIN {
+    width: 88%;
+    padding-left: 200px;
+}
+.webnHeading {
+    font-size: 69px;
+    padding-top: 30px;
+}
+.Join_col5 {
+    padding-left: 245px;
+}
+section.Packages {
+    width: 1614px;
+    padding-left: 0px;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: -278px;
+}
+.basic_box {
+    max-width: 220%;
+    margin-left: 57px;
+    height: 1690px;
+    margin-right: -19px;
+}
+.basic_logo {
+    font-size: 58px;
+}
+.price_basic h2 {
+    font-size: 78px;
+}
+.Unique_Logo {
+    font-size: 58px;
+    height: 866px;
+}
+.order_now {
+    width: 491px;
+    height: 117px;
+    font-size: 56px;
+    margin-top: 54px;
+}
+.Share_your {
+    font-size: 43px;
+}
+.discuss {
+    font-size: 49px;
+}
+.Eager_details {
+    font-size: 62px;
+    width: 502%;
+    text-align: justify;
+    padding-left: 137px;
+    height: 400px;
+}
+.Eager {
+    font-size: 70px;
+    margin-left: -29px;
+    text-align: center;
+    width: 515%;
+}
+.Eager_img {
+    width: 337%;
+    margin-left: -15px;
+    /* text-align: end; */
+    height: 954px;
+}
+.Slide_img2.Slide_img3 {
+    margin-right: -221px;
+    margin-top: 4px;
+}
+.web_imag {
+    width: 1181px;
+    height: 849px;
+    margin-left: -341px;
+}
+.check_out {
+    font-size: 59px;
+}
+.reputable {
+    font-family: Raleway;
+    font-size: 90px;
+    font-weight: 900;
+    text-align: justify;
+    width: 1409px;
+    margin-left: -49px;
+}
+.reputable_details {
+    font-family: Raleway;
+    font-size: 59px;
+    font-weight: 600;
+    /* text-align: center; */
+    padding-left: 18px;
+    margin-left: -47px;
+}
+.logo_web {
+    font-size: 140px;
+    margin-top: -2510px;
+    margin-left: -405px;
+}
+.Recent_Work {
+    padding-top: 100px;
+    font-family: Raleway;
+    font-size: 106px;
+    font-weight: 900;
+    text-align: center;
+}
+.Recent_image {
+    width: 1165px;
+    height: 858px;
+}
+section.Reputable {
+    width: 1909px;
+    padding-left: 206px;
+}
+img.web_imag {
+    width: 296%;
+    padding-left: 188px;
+}
+section.Eager_Website {
+    width: 632px;
+}
+.col-md-6.col-sm-6.col-xs-6.eager_col8 {
+    width: 72%;
+}
+.Computer {
+    width: 884px;
+    margin-left: -307px;
+}
+.ready {
+    margin-right: -134px;
+    margin-left: 0px;
+}
+img.Computer {
+    width: 924px;
+}
+.Absolutely_heading {
+    font-size: 62px;
+}
+.Absolutely_details {
+    font-size: 36px;
+}
+.website_desigen {
+    font-size: 80px;
+    padding-top: 2px;
+    padding-left: 35px;
+    text-align: center;
+}
+.Email {
+    width: 758px;
+    margin-left: -215px;
+}
+.col-md-6.col-sm-6.col-xs-6 {
+    width: 90%;
+}
+.website_details {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 57px;
+    color: #FFFFFF;
+    padding-left: 35px;
+}
+.col-md-3.col-sm-3.col-xs-3.mobile_size {
+    height: 918px;
+    width: 90%;
+    padding-left: 268px;
+}
+.contact {
+    font-size: 59px;
+    padding-left: 35px;
+    text-align: center;
+}
+.Satisfied {
+    font-size: 91px;
+}
+.Check_bg {
+    margin-left: 188px;
+}
+.Satisfied_Clients {
+    width: 1726px;
+}
+col-md-6.col-sm-6.col-xs-6.Absolutely {
+    margin-left: 402px;
+    padding-right: 0px;
+}
+.Awards_Recognitions {
+    width: 92%;
+    padding-left: 200px;
+    padding-right: 200px;
+    /* margin-left: 200px; */
+}
+.modal-content {
+    width: 69%;
+    margin-left: 58px;
+    height: 1121px;
+    margin-top: 400px;
+}
+.get_touct {
+    font-size: 78px;
+    font-weight: 900;
+    font-family: Raleway;
+    padding-left: 20px;
+}
+.get_touct_ul {
+    font-size: 37px;
+    padding-left: 20px;
+}
+.input_name {
+    background: #0B2C4A;
+    border: 1px solid #fff;
+    width: 100%;
+    border-radius: 8px;
+    height: 101px;
+    padding: 12px;
+    font-size: 47px;
+        color: #fff;
+}
+.input_name.textarea {
+    height: 231px;
+        color: #fff;
+}
+.order_mess {
+    padding: 10px 20px 10px 20px;
+    background: #fff;
+    color: #0B2C4A;
+    border-radius: 15px;
+    border: none;
+    width: 199px;
+    font-size: 36px;
+}
+.col.topers {
+    padding-left: 200px;
+    padding-right: 100px;
+}
+.Top_img {
+    height: 353px;
+    width: 507px;
+    margin-left: 0px;
+}
+.Top_Web {
+    font-size: 50px;
+    text-align: center;
+}
+.top_details {
+    font-size: 40px;
+    text-align: center;
+}
+.Company_BG {
+    width: 1753px;
+}
+.text h3 {
+    font-size: 79px;
+    margin-left: -168px;
+}
+.looking_finest {
+    /* padding-left: 158px; */
+    text-align: -webkit-center;
+    margin-left: 300px;
+}
+.call_toll {
+    font-size: 35px;
+    margin-left: -29px;
+}
+.session {
+    width: 108%;
+}
+.col-sm-3.footer {
+    width: 100%;
+    /* margin-left: -509px; */
+}
+.session .content_ a {
+    text-decoration: none;
+    color: #002E45;
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: -159px;
+}
+.content_ {
+    display: flex;
+    /*align-items: center;*/
+    justify-content: flex-start;
+}
+}
+/*-------------------------------------425px-----------------------------*/
+@media(max-width: 425px){
+ .banner_images {
+    width: 118%;
+    overflow-x: hidden;
+    margin-top: -28px;
+}
+.ready {
+    margin-right: -299px;
+    margin-left: 0px;
+}
+.Attractive_design {
+    font-size: 40px;
+    color: #000000;
+    padding: 0px;
+    padding-left: 129px;
+}
+.Awards_Recognitions {
+    width: 100%;
+    padding-left: 200px;
+    padding-right: 200px;
+    /* margin-left: 200px; */
+}
+.looking_finest {
+    /* padding-left: 158px; */
+    text-align: -webkit-center;
+    margin-left: 211px;
+}
+.Email {
+    width: 758px;
+    margin-left: -291px;
+}
+.box_circle {
+    /* margin-left: 46px; */
+    text-align: center;
+}
+section.Packages {
+    width: 1614px;
+    padding-left: 100px;
+}
+.ready {
+    margin-right: -299px;
+    margin-left: 0px;
+    padding-bottom: 24px;
+}
+.session {
+    width: 118%;
+    padding-left: 70px;
+}
+}
+
+/*------------------------375px--------------------------------*/
+@media(max-width: 375px){
+body {
+    zoom: 20%;
+}
+.banner_images {
+    width: 100%;
+}
+.navbar .navbar_links {
+    font-size: 54px;
+}
+.banner_deatil {
+    width: 88%;
+    text-align: justify;
+    font-size: 54px;
+}
+.blkorn {
+    font-size: 81px;
+}
+.Designers_ul {
+    color: #fff;
+    padding-left: 158px;
+    padding-top: 50px;
+    text-align: justify;
+}
+.Submit {
+    width: 61%;
+    height: 116px;
+    font-size: 59px;
+    margin-left: -13px;
+}
+.webnHeading {
+    font-size: 46px;
+    padding-top: 75px;
+    padding-left: 146px;
+}
+section.JOIN {
+    width: 1451px;
+}
+.Designers_ul li {
+    font-size: 55px;
+}
+.webndetail {
+    font-size: 47px;
+    margin-left: -196px;
+    margin-right: -302px;
+}
+.box_join {
+    width: 255px;
+    height: 277px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.box_join2 {
+    width: 258px;
+    height: 265px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.box_join3 {
+    width: 262px;
+    height: 266px;
+    border-radius: 50%;
+    padding: 57px 40px 33px 55px;
+}
+.Attractive_design {
+    font-size: 39px;
+    color: #000000;
+    padding: 40px;
+}
+.LOGO_DESIGN {
+    font-family: 'Raleway';
+    font-size: 113px;
+    left: 529px;
+    top: -835px;
+}
+.Join_col5 {
+    padding-left: 186px;
+}
+section.Packages {
+    width: 1500px;
+    padding-left: 0px;
+}
+.Slide_img2.Slide_img3 {
+    margin-right: -147px;
+    margin-top: 4px;
+}
+section.Reputable {
+    width: 1500px;
+    /* padding-left: 0px; */
+    padding-left: 100px;
+}
+.reputable_details {
+    font-family: Raleway;
+    font-size: 59px;
+    font-weight: 600;
+    /* text-align: center; */
+    padding-left: 18px;
+    margin-left: -47px;
+    width: 131%;
+}
+.recent {
+    width: 96%;
+    margin-left: 0px;
+}
+.Recent_image {
+    width: 977px;
+    height: 808px;
+}
+.col-md-3.col-sm-3.col-xs-3.mobile_size {
+    height: 922px;
+    width: 52%;
+    padding-left: 268px;
+}
+section.Eager_Website {
+    width: 611px;
+}
+.ready {
+    margin-right: 0px;
+    margin-left: -1px;
+}
+.Satisfied_Clients {
+    width: 1500px;
+    margin-left: 200px;
+}
+.Check_img {
+    padding-top: 65px;
+    padding-left: 246px;
+    padding-bottom: 65px;
+    height: 780px;
+}
+.col-md-6.col-sm-6.col-xs-6.Absolutely {
+    margin-left: 437px;
+    padding-right: 9px;
+    width: 100%;
+    margin-left: 167px;
+}
+.Awards_Recognitions {
+    width: 1400px;
+    padding-left: 0px;
+    padding-right: 94px;
+    margin-left: 100px;
+}
+section.Packages img {
+    margin-left: 27px;
+    height: 164px;
+}
+.Company_BG {
+    width: 100%;
+    margin-left: 0px;
+    height: 586px;
+}
+.Company {
+    font-size: 70px;
+}
+.Company_packag {
+    font-size: 71px;
+}
+.call_toll {
+    font-size: 48px;
+    margin-left: -29px;
+}
+.need {
+    font-size: 44px;
+    padding-top: 70px;
+    padding-right: 31px;
+}
+.Request {
+    width: 432px;
+    height: 105px;
+    font-size: 39px;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.col-md-6.col-sm-6.col-xs-6.Email_type {
+    width: 67%;
+    padding-left: 364px;
+}
+.session .content_ a {
+    text-decoration: none;
+    color: #002E45;
+    font-size: 46px;
+    font-weight: 700;
+}
+.Check_bg {
+    margin-left: -29px;
+}
+.Submit_Email {
+    width: 266px;
+    height: 115px;
+    background: #000000;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 38px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-left: 29px;
+}
+.Eager {
+    font-size: 60px;
+    margin-left: -29px;
+    text-align: center;
+    width: 515%;
+}
+img.web_imag {
+    width: 426%;
+    padding-left: 188px;
+    height: 961px;
+}
+.modal-content.modal_class {
+    height: 1481px;
+    margin-left: 95px;
+    width: 90%;
+}
+.Black {
+    display: list-item;
+    margin-top: -592px;
+    width: 345%;
+    margin-left: -58px;
+    height: 610px;
+}
+button.close {
+    padding-top: 75px;
+}
+.box_circle {
+    margin-left: -187px;
+    text-align: center;
+}
+/*.fill_out {*/
+/*    font-size: 62px;*/
+/*    margin-left: -169px;*/
+/*    padding-top: 120px;*/
+/*}*/
+/*.fill_name {*/
+/*    font-size: 46px;*/
+/*    height: 132px;*/
+/*    margin-left: -342px;*/
+/*    width: 201%;*/
+/*    opacity: 0.4;*/
+/*}*/
+/*.fill_message {*/
+/*    font-size: 62px;*/
+/*    height: 398px;*/
+/*    opacity: 0.7;*/
+/*    margin-left: -344px;*/
+/*    width: 202%;*/
+/*    opacity: 0.4;*/
+/*}*/
+/*.send_mess {*/
+/*    font-size: 52px;*/
+/*    margin-left: -347px;*/
+/*    width: 97%;*/
+/*    border-radius: 12px;*/
+/*}*/
+.col-md-6.col-sm-6.col-xs-6.Email_type {
+    width: 55%;
+    /* padding-left: 206px; */
+}
+.col-md-4.col-sm-4.col-xs-4.submit_sub {
+    width: 44%;
+}
+.looking_finest {
+    /* padding-left: 158px; */
+    text-align: -webkit-center;
+    width: 1400px;
+}
+.session {
+    width: 100%;
+}
+}
+/*---------------------325px--------------------------------*/
+@media(max-width: 325px){
+.banner_images {
+    width: 100%;
+}
+section.JOIN {
+    width: 1342px;
+}
+.webndetail {
+    font-size: 47px;
+    margin-left: -375px;
+    margin-right: -302px;
+}
+.Black {
+    width: 351%;
+}
+.navbar .navbar_links {
+    font-size: 50px;
+}
+.webnHeading {
+    font-size: 57px;
+    /* padding-top: 75px; */
+    /* padding-left: 146px; */
+}
+.Attractive_design {
+    font-size: 58px;
+    color: #000000;
+    /* padding: 40px; */
+}
+.box_join {
+    width: 320px;
+    height: 320px;
+}
+.box_join2 {
+    width: 320px;
+    height: 320px;
+}
+.box_join3 {
+    width: 320px;
+    height: 320px;
+}
+.box_circle {
+    margin-left: -277px;
+    text-align: center;
+}
+section.Packages {
+    width: 1415px;
+    padding-left: 0px;
+}
+.Join_col5 {
+    padding-left: 99px;
+}
+.basic_box {
+    max-width: 100%;
+    margin-left: 47px;
+    margin-right: -13px;
+    /* height: 1417px; */
+}
+.logo_web {
+    font-size: 52px;
+    margin-top: -2510px;
+    margin-left: 12px;
+}
+img.Slide_img2.Slide_img3 {
+    margin-right: -183px;
+}
+section.Reputable {
+    width: 1428px;
+    padding-left: 0px;
+    margin-left: -47px;
+}
+.web_imag {
+    width: 756px;
+    height: 596px;
+    margin-left: -220px;
+}
+.reputable {
+    width: 1409px;
+    margin-left: 6px;
+}
+img.web_imag {
+    width: 380%;
+    padding-left: 154px;
+    height: 1208px;
+}
+.reputable_details {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.recent {
+    width: 92%;
+    margin-left: 0px;
+}
+.Ecommerce_btn {
+    width: 436px;
+    height: 120px;
+    font-size: 54px;
+    margin: 14px;
+}
+.Recent_image {
+    width: 1445px;
+    height: 1532px;
+    margin-left: -49px;
+}
+.col-md-3.col-sm-3.col-xs-3.mobile_size {
+    width: 51%;
+    padding-left: 0px;
+    height: 1600px;
+}
+section.Eager_Website {
+    width: 36%;
+    /* padding-left: 100px; */
+}
+.Eager {
+    font-size: 70px;
+    margin-left: -106px;
+    text-align: center;
+}
+.Company {
+    font-size: 62px;
+    padding-bottom: 100px;
+}
+.Eager_details {
+    font-size: 53px;
+    /* text-align: center; */
+    padding-left: 0px;
+}
+.Eager_img {
+    width: 410%;
+    margin-left: -208px;
+    /* text-align: end; */
+    margin-top: 0px;
+}
+.ready {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+img.Computer {
+    width: 1326px;
+}
+.col-md-4.col-sm-4.col-xs-4.Satisfied_col {
+    width: 50%;
+    padding-left: 0px;
+}
+.Satisfied_Clients {
+    width: 1279px;
+}
+.Check_img {
+    height: 1400px;
+}
+.col-md-6.col-sm-6.col-xs-6.Absolutely {
+    margin-left: 0px;
+    padding-right: 149px;
+}
+.Absolutely_heading {
+    font-size: 71px;
+}
+.Absolutely_details {
+    font-size: 40px;
+}
+.Awards_Recognitions {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 1303px;
+}
+.Awards {
+    font-size: 90px;
+    text-align: center;
+}
+.Top_img {
+    height: 479px;
+    width: 555px;
+    margin-left: 0px;
+}
+.Check_bg {
+    margin-left: -194px;
+}
+.col-md-3.col-sm-3.col-xs-3.mobile_size {
+    height: 922px;
+    width: 51%;
+}
+.Company_BG {
+    width: 100%;
+}
+.call_toll {
+    font-size: 29px;
+    margin-left: -29px;
+}
+.col-md-6.col-sm-6.col-xs-6.Email_type {
+    width: 48%;
+    /* padding-left: 206px; */
+}
+.need {
+    font-size: 53px;
+    padding-top: 70px;
+    padding-right: 31px;
+}
+.Company_packag {
+    font-size: 60px;
+}
+.col-md-6.col-sm-6.col-xs-6.Search {
+    width: 100%;
+}
+.Email {
+    width: 1013px;
+    margin-left: -426px;
+}
+.Submit_Email {
+    width: 401px;
+    height: 115px;
+    background: #000000;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 51px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-left: 29px;
+}
+.Looking h1 {
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Raleway;
+    color: #F29E29;
+    /* text-align: center; */
+}
+.modal-content.modal_class {
+    height: 1481px;
+    margin-left: 95px;
+    width: 87%;
+}
+.looking_finest {
+    padding-left: 0px;
+}
+.session {
+    width: 100%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+Disallow: /*order-now
+
+Sitemap: https://customwebnlogodesigns.com/sitemap.xml

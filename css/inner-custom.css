@@ -1,0 +1,37 @@
+.curve-down
+    {
+        margin-top: 0;
+        height: 80px;
+    }
+.curve-up
+    {
+        margin-top: 20px;
+        display: block;
+        height: 80px;
+        background-color: #f4f4f4;
+    }
+.client-waves
+    {
+        display: none;
+    }
+.happy-client .container
+    {
+        margin-top: 0;
+    }
+.happy-client
+    {
+        padding-top: 50px;
+    }
+.package .row
+    {
+        margin-top: 40px;
+    }
+.section-three 
+    {
+        margin-top: -90px;
+        background-color: transparent;
+    }
+.package-slide
+    {
+        margin-top: 40px;
+    }
